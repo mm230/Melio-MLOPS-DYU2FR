@@ -1,0 +1,3990 @@
+  800  ls
+  801  putty
+  802  clear
+  803  docker version
+  804  docker deamon version
+  805  docker daemon version
+  806  docker pull cloudera/quickstart:latest
+  807  docker deamon version
+  808  docker version
+  809  docker pull cloudera/quickstart:latest
+  810  docker image
+  811  docker images
+  812  hostname
+  813  docker run --hostname=quickstart.cloudera --privileged=true -t -i -v ~/Documents/dockersrc://Src --publish-all=true -p 8888 cloudera/quickstart /usr/bin/docker-quickstart
+  814  docker run --hostname=quickstart.cloudera --privileged=true -t -i -v ~/Documents/dockersrc:/Src --publish-all=true -p 8888 cloudera/quickstart /usr/bin/docker-quickstart
+  815  docker ps
+  816  docker ps
+  817  docker inspect 2b
+  818  clear
+  819  docker run --hostname=quickstart.cloudera --privileged=true -t -i -v ~/Documents/dockersrc:/Src --publish-all=true -p 8888 cloudera/quickstart /usr/bin/docker-quickstart
+  820  clear
+  821  docker version
+  822  docker load -i denodo-platform-latest.tar
+  823  java -version
+  824  cat .bashrc
+  825  cat /.bashrc
+  826  cat ./bashrc
+  827  cat ~/.bashrc
+  828  ll
+  829  ls
+  830  ls -a
+  831  cat Résultat\ de\ Terminal
+  832  clear
+  833  /usr/libexec/java_home
+  834  vi .bashrc
+  835  ls
+  836  ls
+  837  cd denodo
+  838  ls
+  839  ls
+  840  ls
+  841  cd Documents
+  842  ls
+  843  cd ..
+  844  ls
+  845  cd Desktop
+  846  cd Documents
+  847  ls
+  848  cd denodo-express-install-8_0
+  849  ls
+  850  ./install.sh
+  851  sudo ./install.sh
+  852  sh install.sh
+  853  ls
+  854  ls
+  855  cd ..
+  856  ls
+  857  cd denodo-express-
+  858  cd denodo-express-install-8_0
+  859  ls
+  860  installer_cli.bat
+  861  ./installer_cli.bat
+  862  sudo ./installer_cli.bat
+  863  sh ./installer_cli.bat
+  864  ls
+  865  denodo-install-8.0.dat
+  866  sudo ./denodo-install-8.0.dat
+  867  sh ./denodo-install-8.0.dat
+  868  sh install.sh
+  869  conda activate torch-nightly
+  870  conda activate torch-nightly
+  871  conda activate torch-nightly
+  872  clear
+  873  ls
+  874  cd denodo-update
+  875  ls
+  876  docker run
+  877  docker
+  878  docker compose
+  879  docker version
+  880  cd ..
+  881  cd 
+  882  ls
+  883  docker load -i denodo-platform-latest.tar 
+  884  clear
+  885  ifconfig
+  886  ping 192.168.1.71
+  887  ping google.sn
+  888  ping 8.8.8.8
+  889  clear
+  890  ping 185.195.71.244
+  891  clear
+  892  conda activate torch-nightly
+  893  conda activate torch-nightly
+  894  conda activate torch-nightly
+  895  clear
+  896  history
+  897  clear
+  898  docker run 
+  899  docker compose
+  900  docker compose run
+  901  docker compose start
+  902  docker start
+  903  docker up
+  904  docker compose up
+  905  docker version
+  906  docker version
+  907  history
+  908  docker ps
+  909  docker ps content
+  910  docker content
+  911  docker images
+  912  hostname
+  913  docker ps 
+  914  docker ps 48
+  915  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+  916  docker ps
+  917  docker ps 82
+  918  docker inspect
+  919  docker inspect 82
+  920  docker inspect
+  921  ifconfig
+  922  clear
+  923  GET https://api.pole-emploi.io/partenaire/explorateurmetiers/v1/explorateurmetiers'\n\n\nclear\n\n'
+  924  source /Users/mansour/opt/anaconda3/bin/activate torch-nightly
+  925  source /Users/mansour/opt/anaconda3/bin/activate torch-nightly
+  926  source /Users/mansour/opt/anaconda3/bin/activate torch-nightly
+  927  ifconfig
+  928  python3 main.py --model kernelridge -l 0.00001conda activate base
+  929  python3 main.py --model kernelridge -l 0.00001
+  930  ifconfig
+  931  ls
+  932  ./designstudio_startup.sh
+  933  ./denodo_platform.sh
+  934  clear
+  935  ls
+  936  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  937  /Users/mansour/opt/anaconda3/envs/torch-nightly/bin/jupyter_mac.command ; exit;
+  938  ls
+  939  cd DenodoPlatform8.0
+  940  ls
+  941  cd bin 
+  942  ls
+  943  ./denodo_platform.sh
+  944  clear
+  945  clear
+  946  ifconfig
+  947  source activate torch-nightly
+  948  source activate torch-nightly
+  949  source activate torch-nightly
+  950  source activate torch-nightly
+  951  /Users/mansour/opt/anaconda3/envs/torch-nightly/bin/python
+  952  clear
+  953  ifconfig
+  954  ls -l
+  955  cd DOwn
+  956  cd Downloads
+  957  ls -l
+  958  cd 21390.2025_arm64_fr-fr_core_7811e991_convert
+  959  ls
+  960  ./uup_download_macos.sh
+  961  sudo ./uup_download_macos.sh
+  962  sudo sh uup_download_macos.sh
+  963  brew tap sidneys/homebrew
+  964  brew autdated
+  965  brew outdated
+  966  brew upgrade
+  967  git lfs install 
+  968  git lfs install --system
+  969  sudo git lfs install --system
+  970  sudo sh uup_download_macos.sh
+  971  brew tap sidneys/homebrew
+  972  brew install cabextract wimlib cdrtools sidneys/homebrew/chntpw
+  973  brew install aria2c sidneys/homebrew/chntpw
+  974  brew install aria2
+  975  clear
+  976  sudo sh uup_download_macos.sh
+  977  ls
+  978  ls
+  979  ls
+  980  cd DenodoPlatform8.0
+  981  ls
+  982  cd bin
+  983  ls
+  984  sh denodo_platform.sh
+  985  source activate torch-nightly
+  986  source activate torch-nightly
+  987  source activate torch-nightly
+  988  source activate torch-nightly
+  989  source activate base
+  990  ifocnfig
+  991  ifconfig
+  992  brew --version
+  993  brew install --cask iterm2
+  994  git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+  995  vim ~/.zshrc
+  996  source ~/.zshrc
+  997  
+  998  ls
+  999  git --version
+ 1000  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ 1001  ls
+ 1002  curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/coolnight.itermcolors --output ~/Downloads/coolnight.itermcolors
+ 1003  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+ 1004  vim ~/.zshrc
+ 1005  source ~/.zshrc
+ 1006  ls 
+ 1007  ls -l
+ 1008  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+ 1009  vim ~/.zshrc
+ 1010  source ~/.zshrc
+ 1011  cd Documents
+ 1012  ls
+ 1013  cd
+ 1014  ls
+ 1015  vim ~/.zshrc
+ 1016  source ~/.zshrc
+ 1017  google OM
+ 1018  ls
+ 1019  cd Documents
+ 1020  ls
+ 1021  cd ../
+ 1022  ls
+ 1023  cd Dekstop
+ 1024  CD Desktop
+ 1025  ls
+ 1026  cd Documents
+ 1027  ls
+ 1028  cd ../
+ 1029  ls
+ 1030  cd Desktop
+ 1031  ls
+ 1032  cd Documents
+ 1033  ls
+ 1034  cd AMMI\
+ 1035  ls
+ 1036  cd Final\ project\ GNNs
+ 1037  ls
+ 1038  clear
+ 1039  ls
+ 1040  cd ProteinMPNN
+ 1041  git status
+ 1042  git log
+ 1043  cd ../
+ 1044  ls
+ 1045  cd ../
+ 1046  ls
+ 1047  cd ..
+ 1048  LS
+ 1049  cd Master\ Big\ Data\ Analytics
+ 1050  ls
+ 1051  cd Master\ 2
+ 1052  ls
+ 1053  cd Analyse\ des\ reseaux\ sociaux
+ 1054  ls
+ 1055  cd lawool\ ngol
+ 1056  ls
+ 1057  git status
+ 1058  git add .
+ 1059  git commit -m "change readme file"
+ 1060  git branch -M main
+ 1061  git push -u origin main
+ 1062  git pull 
+ 1063  git diff
+ 1064  git config pull.rebase false
+ 1065  git status
+ 1066  git push -u origin main
+ 1067  git log
+ 1068  ls
+ 1069  clear
+ 1070  ls
+ 1071  pip list
+ 1072  conda activate-toch-nightly
+ 1073  ls
+ 1074  whereis conda
+ 1075  cd 
+ 1076  ls
+ 1077  cd ..
+ 1078  ls
+ 1079  cd mansour
+ 1080  ls
+ 1081  cd ../
+ 1082  ls
+ 1083  cd mansour
+ 1084  vim ~/.zshrc
+ 1085  echo $USERS
+ 1086  echo $USER
+ 1087  source /Users/mansour/opt/anaconda3/bin/activate
+ 1088  conda init zsh
+ 1089  conda list
+ 1090  clear
+ 1091  conda list
+ 1092  source activate torch-nightly
+ 1093  conda deactivate 
+ 1094  clear
+ 1095  history
+ 1096  history >historique_commande.txt -500 ~/Desktop/Documents/
+ 1097  ls
+ 1098  cd Desktop
+ 1099  ls
+ 1100  cd Documents
+ 1101  ls
+ 1102  history >historique_commande.txt -500
+ 1103  ls
+ 1104  vim historique_commande.txt
+ 1105  ls
+ 1106  ls -l
+ 1107  docker compose
+ 1108  docker compose up
+ 1109  docker run 
+ 1110  docker -version
+ 1111  docker start
+ 1112  clear
+ 1113  dockerd
+ 1114  sudo systemctl start docker
+ 1115  brew install systemd
+ 1116  ls
+ 1117  cd Applications
+ 1118  ls
+ 1119  pwd
+ 1120  cd /Applications/DenodoPlatform8.0
+ 1121  ls
+ 1122  pwd
+ 1123  pip list
+ 1124  conda -c --forge update
+ 1125  clear
+ 1126  ls
+ 1127  cd bin 
+ 1128  lss
+ 1129  ls
+ 1130  clear
+ 1131  exit
+ 1132  clear
+ 1133  ls
+ 1134  cd Document
+ 1135  cd Documents
+ 1136  ls
+ 1137  cd dockersrc
+ 1138  ls
+ 1139  ll
+ 1140  cd ../
+ 1141  ls
+ 1142  cd Desktop
+ 1143  ls
+ 1144  cd Document
+ 1145  cd Documents
+ 1146  ls -l
+ 1147  cd UN\ BIG\ DATA\ HACKATON
+ 1148  ls
+ 1149  cd ../
+ 1150  ls
+ 1151  vim 
+ 1152  ls
+ 1153  vim historique_commande.txt
+ 1154  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 1155  docker ps
+ 1156  docker inspect ae
+ 1157  ls
+ 1158  clear
+ 1159  ls
+ 1160  cd AMMI\
+ 1161  LS
+ 1162  ls
+ 1163  cd Kernel\ Methods\ in\ ML
+ 1164  ls
+ 1165  cd kernel\ competition
+ 1166  ls
+ 1167  cd data\ challenge\ kernel\ methos
+ 1168  ls
+ 1169  git status
+ 1170  cd ../..
+ 1171  ls
+ 1172  cd Practices
+ 1173  ls
+ 1174  cd ../
+ 1175  cd kernel\ competition
+ 1176  ls
+ 1177  cd data\ challenge
+ 1178  ls
+ 1179  git status
+ 1180  git log --graph --oneline
+ 1181  git log -file
+ 1182  git log --file
+ 1183  git log --3
+ 1184  git log 
+ 1185  ls
+ 1186  cd examples
+ 1187  ls
+ 1188  ./submit_example_1.sh
+ 1189  sudo ./submit_example_1.sh
+ 1190  sudo sh submit_example_1.sh
+ 1191  ls
+ 1192  cd ../../
+ 1193  ls
+ 1194  ll
+ 1195  cd denodo-express-install-8_0
+ 1196  ls
+ 1197  cd ..
+ 1198  scala
+ 1199  curl fr.wttr.in Dakar
+ 1200  google chatgpt
+ 1201  clear
+ 1202  history
+ 1203  clear
+ 1204  git status
+ 1205  clear
+ 1206  ll
+ 1207  clear
+ 1208  fsdisk
+ 1209  clear
+ 1210  google olympique de marseille
+ 1211  code .
+ 1212  ls
+ 1213  history -100>commandes.text 
+ 1214  ls
+ 1215  ls 
+ 1216  ll
+ 1217  ifconfig
+ 1218  ifconfig ip addr
+ 1219  ip a show
+ 1220  clear
+ 1221  ifconfig
+ 1222  clear
+ 1223  ll
+ 1224  anaconda-project
+ 1225  anaconda-navigator
+ 1226  source activate torch-nightly
+ 1227  clear
+ 1228  ls
+ 1229  cd AMMI\
+ 1230  ls
+ 1231  cd Final\ project\ GNNs
+ 1232  ls
+ 1233  cd ProteinMPNN
+ 1234  ls
+ 1235  cd exam
+ 1236  cd examples
+ 1237  ls
+ 1238  sudo sh submit_example_3.sh
+ 1239  sh submit_example_4.sh
+ 1240  clear
+ 1241  source /Users/mansour/opt/anaconda3/bin/activate torch-nightly
+ 1242  cd Desktop
+ 1243  git clone https://atos-dakar.01-edu.org/git/odiallo/piscine
+ 1244  ls
+ 1245  cd piscine
+ 1246  code .
+ 1247  git status
+ 1248  git add compact.go  && git commit -m "compact" && git push
+ 1249  clear
+ 1250  git status
+ 1251  git log
+ 1252  ifconfig
+ 1253  ping 192.168.1.71
+ 1254  ping 192.168.1.55
+ 1255  ping 192.168.1.56
+ 1256  ls
+ 1257  cd Desktop
+ 1258  ls
+ 1259  ls piscine
+ 1260  ls
+ 1261  cd piscine
+ 1262  ls
+ 1263  cat hello.sh
+ 1264  git st
+ 1265  git status
+ 1266  git log
+ 1267  ls
+ 1268  ll
+ 1269  ls
+ 1270  cd cat
+ 1271  ls
+ 1272  code . main.go
+ 1273  ls
+ 1274  cd ..
+ 1275  ls
+ 1276  cd ../
+ 1277  ll
+ 1278  zsh
+ 1279  for i in range(1000):\nprint("salut")
+ 1280  python
+ 1281  clear
+ 1282  source mlfold
+ 1283  source conda mlfold
+ 1284  clear
+ 1285  git status
+ 1286  clear
+ 1287  ll
+ 1288  ls
+ 1289  ifconfig
+ 1290  cd Documents
+ 1291  ls
+ 1292  cd Master\ Big\ Data\ Analytics
+ 1293  ls
+ 1294  cd Memoire\ M2
+ 1295  ls
+ 1296  conda activate base
+ 1297  conda create environnement equivariant 
+ 1298  conda env
+ 1299  pip list
+ 1300  conda update conda
+ 1301  clear
+ 1302  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 1303  brew update
+ 1304  conda activate torch-nightly
+ 1305  source activate mlfold
+ 1306  conda env
+ 1307  conda list
+ 1308  conda deactivate
+ 1309  source activate mlfold
+ 1310  pip list
+ 1311  python parse_multiple_chains.py --input_path='../PDB_complexes/pdbs/' --output_path='../PDB_complexes/parsed_pdbs.jsonl'\n
+ 1312  ls
+ 1313  cd helper_scripts
+ 1314  ls
+ 1315  python parse_multiple_chains.py --input_path='../PDB_complexes/pdbs/' --output_path='../PDB_complexes/parsed_pdbs.jsonl'\n
+ 1316  ls
+ 1317  sh parse_multiple_chains..sh
+ 1318  sh parse_multiple_chains.sh
+ 1319  clear
+ 1320  ls
+ 1321  cd other_tools
+ 1322  ls
+ 1323  ll
+ 1324  cat make_omit_AA.py
+ 1325  clear
+ 1326  ls -l
+ 1327  cat make_pssm_dict.py
+ 1328  cd \\n
+ 1329  ls
+ 1330  sudo docker pull mcr.microsoft.com/mssql/server:2017-latest
+ 1331  docker run -d --name sql_server_test -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Bkhnu$3320’ -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest\n'
+ 1332  docker run -d --name sql_server_test -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Bkhnu$3320’ -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest'\n\n\n'\n'
+ 1333  docker run --help
+ 1334  docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=Bkhnu$3320" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest
+ 1335  docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=Bkhnu3320" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2017-latest
+ 1336  docker run -d --name sql_server_test -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1337  docker buildx build --platform=linux/amd64 -t myorg/mytag:1.0.0
+ 1338  docker run --platform linux/amd64 -d --name sql_server_test -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1339  clear
+ 1340  npm install -g sql-cli
+ 1341  sudo npm install -g sql-cli
+ 1342  mssql -u sa -p
+ 1343  mssql -u sa -p Bkhnu$3320
+ 1344  mssql -u sa -p Bkhnu3320
+ 1345  mssql -u sa -p koldaSENEGAL
+ 1346  mssql -u sa -p Bkhnu$3320
+ 1347  mssql -u sa -p Bkhnu@3320
+ 1348  mssql -u sa -p Bkhnu3320
+ 1349  mssql -u sa -p
+ 1350  docker run --platform linux/amd64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1351  mssql -u sa -p
+ 1352  docker run --platform linux/amd64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1353  mssql -u sa -p
+ 1354  docker run --platform linux/amd64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1355  sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
+ 1356  docker run --platform linux/amd64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2022-latest
+ 1357  docker run --platform linux/amd64 -d --name sql_server_2022_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2022-latest
+ 1358  docker run --platform linux/arm64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2022-latest
+ 1359  clear
+ 1360  docker run --platform linux/arm64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1361  docker run --platform linux/arm64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2022-latest
+ 1362  docker run --platform linux/arm64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1363  docker run --platform linux/amd64 -d --name sql_server_hpm -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Bkhnu@3320" -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest
+ 1364  cd /Applications/DenodoPlatform8.0
+ 1365  ls
+ 1366  cd bin
+ 1367  ls
+ 1368  sh webcontainer.sh
+ 1369  ./webcontainer.sh
+ 1370  sh webcontainer.sh
+ 1371  sh denodo_
+ 1372  ./denodo_platform.sh
+ 1373  clear
+ 1374  history
+ 1375  cd ~/Desktop/Documents/
+ 1376  ls
+ 1377  history >sql_command.txt -100
+ 1378  ls
+ 1379  sql_command.txt
+ 1380  cat sql_command.txt
+ 1381  clear
+ 1382  ls
+ 1383  CLEAR
+ 1384  fsdisk
+ 1385  clear
+ 1386  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 1387  ls
+ 1388  pwd
+ 1389  conda activate mlfold
+ 1390  spark
+ 1391  whereis spark
+ 1392  ls
+ 1393  clear
+ 1394  exit
+ 1395  ls
+ 1396  cd Applications
+ 1397  ls
+ 1398  pwd
+ 1399  cd /Applications
+ 1400  ls
+ 1401  cd DenodoPlatform8.0
+ 1402  ls
+ 1403  cd bin
+ 1404  ls
+ 1405  ./denodo_platform.sh
+ 1406  docker -version
+ 1407  docker --version
+ 1408  docker version
+ 1409  git version
+ 1410  java version
+ 1411  java -version
+ 1412  javac -version
+ 1413  java
+ 1414  jre -version
+ 1415  javac -version
+ 1416  java -version
+ 1417  clear
+ 1418  java -version
+ 1419  git status
+ 1420  git
+ 1421  clear
+ 1422  ls
+ 1423  ll
+ 1424  exit
+ 1425  git status
+ 1426  git log
+ 1427  pwd
+ 1428  cp pwd
+ 1429  exit
+ 1430  cd /Applications
+ 1431  ls
+ 1432  cd DenodoPlatform8.0
+ 1433  ls
+ 1434  cd bin 
+ 1435  ls
+ 1436  ./denodo_platform.sh
+ 1437  ping 8.8.8.8
+ 1438  clear
+ 1439  lll
+ 1440  ll
+ 1441  pip list
+ 1442  history
+ 1443  exit
+ 1444  clear
+ 1445  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 1446  Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 1447  ls
+ 1448  whereis anaconda
+ 1449  cd ~/Users/mansour/opt/anaconda3/bin/anaconda/Desktop/Documents/
+ 1450  cd ~/Users/mansour/opt/anaconda3/bin/anacond
+ 1451  cd ~/Users/mansour/opt/anaconda3/bin/anaconda
+ 1452  cd ~/Users/mansour/opt/anaconda3/bin/
+ 1453  cd /Users/mansour/opt/anaconda3/bin/
+ 1454  ls
+ 1455  cd ..
+ 1456  ls
+ 1457  cd bin
+ 1458  ls -l
+ 1459  jupyter
+ 1460  jupyter --version
+ 1461  ./jupyter
+ 1462  jupyter run
+ 1463  jupyter --runtime-dir
+ 1464  cd /Users/mansour/Library/Jupyter/runtimebin
+ 1465  cd /Users/mansour/Library/Jupyter/
+ 1466  ls
+ 1467  cd kernels
+ 1468  ls
+ 1469  cd ~
+ 1470  ls
+ 1471  cd Desktop
+ 1472  cd Documents
+ 1473  ls
+ 1474  cd AMMI\
+ 1475  ls
+ 1476  ls -al
+ 1477  cd Books
+ 1478  ls
+ 1479  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 1480  cd ..
+ 1481  ls
+ 1482  cd ..
+ 1483  ls
+ 1484  cd Designing\ ML\ Systeme
+ 1485  ls
+ 1486  code Untitled.ipynb
+ 1487  flg
+ 1488  clear
+ 1489  Clear
+ 1490  ls
+ 1491  history
+ 1492  history 1364
+ 1493  cd /Applications/DenodoPlatform8.0
+ 1494  ls
+ 1495  cd bin
+ 1496  ls
+ 1497  ./denodo_platform.sh
+ 1498  ls
+ 1499  spark
+ 1500  ls
+ 1501  cd product
+ 1502  ls
+ 1503  ./start.sh
+ 1504  sudo ./start.sh
+ 1505  sudo ./start.bat
+ 1506  clear
+ 1507  mysql
+ 1508  _mysql
+ 1509  mysql
+ 1510  mysql connect
+ 1511  clear
+ 1512  mysql -u root -p
+ 1513  clear
+ 1514  ls
+ 1515  mysql -u 
+ 1516  clear
+ 1517  cd ~/Downloads/
+ 1518  ls
+ 1519  cd mysql-connector-j-8.0.33
+ 1520  ls
+ 1521  sudo cp mysql-connector-j-8.0.33.jar /usr/local/lib/
+ 1522  brew update
+ 1523  ls
+ 1524  exit
+ 1525  history
+ 1526  ls
+ 1527  cd bin
+ 1528  ls
+ 1529  ./denodo_platform.sh
+ 1530  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1531  npm install oracledb@5.5.0 && exit 0
+ 1532  conda activate mlfold
+ 1533  npm install sqlite3@5.1.1 && exit 0
+ 1534  conda activate mlfold
+ 1535  brew update
+ 1536  brew outdated
+ 1537  brew upgrade
+ 1538  cat /Users/mansour/.npm/_logs/2023-05-20T11_52_29_680Z-debug-0.log
+ 1539  sudo chown -R 501:20 "/Users/mansour/.npm"
+ 1540  npm install sqlite3@5.1.1 && exit 0
+ 1541  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1542  nifi start
+ 1543  cd /opt/homebrew/Cellar/nifi/1.21.0
+ 1544  ls
+ 1545  cat README
+ 1546  ls
+ 1547  cd bin
+ 1548  ls
+ 1549  cd ..
+ 1550  cd libexec
+ 1551  ls
+ 1552  cd logs
+ 1553  ls
+ 1554  cat nifi-app.log
+ 1555  cd /Users/mansour/Desktop/Documents/HPM/Formation Denodo/DEN80EDU12D_LOCAL/salesbin
+ 1556  cd /Users/mansour/Desktop/Documents/HPM
+ 1557  ls
+ 1558  cd Formation\ Denodo/
+ 1559  ls
+ 1560  cd DEN80EDU12D_LOCAL
+ 1561  ls
+ 1562  cd sales
+ 1563  ls
+ 1564  ./start.sh
+ 1565  sudo ./start.sh
+ 1566  sudo sh ./start.sh
+ 1567  cd /usr/lib/jvm/
+ 1568  whereis java
+ 1569  cd /usr/lib/java/
+ 1570  cd /usr/bin/java
+ 1571  cd ~/usr/bin/java
+ 1572  nifi start
+ 1573  cd /Users/mansour/opt/
+ 1574  ls
+ 1575  cd anaconda3
+ 1576  ls
+ 1577  cd bin
+ 1578  ls
+ 1579  whereis JAVA_HOME
+ 1580  CD /usr/libexec/java_home
+ 1581  CD /usr/libexec/
+ 1582  ls
+ 1583  cd
+ 1584  clear
+ 1585  java -version
+ 1586  whereis java
+ 1587  cd /usr/bin/java
+ 1588  cd /usr/bin
+ 1589  ls
+ 1590  ls -l
+ 1591  cd ..
+ 1592  ls
+ 1593  cd libexec
+ 1594  ls
+ 1595  cd ..
+ 1596  ls
+ 1597  cd local
+ 1598  ls
+ 1599  cd bin
+ 1600  ls
+ 1601  cd ..
+ 1602  cd lib
+ 1603  ls
+ 1604  cd
+ 1605  ls
+ 1606  cd ~home
+ 1607  cd homr
+ 1608  cd hoe
+ 1609  cd home
+ 1610  cd /home
+ 1611  ls
+ 1612  ll
+ 1613  cd
+ 1614  clear
+ 1615  echo $JAVA_HOME
+ 1616  cd ~/.zshrc/home
+ 1617  vim ~/.zshrc
+ 1618  ls
+ 1619  vim ~/.zshenv
+ 1620  ls
+ 1621  ll
+ 1622  cd opt
+ 1623  ls
+ 1624  cd anaconda3
+ 1625  ls
+ 1626  cd etc
+ 1627  ls
+ 1628  cd
+ 1629  locate java
+ 1630  cd /usr/libexec/
+ 1631  ls
+ 1632  cd
+ 1633  history
+ 1634  cd /Users/mansour/Desktop/Documents/HPM
+ 1635  ls
+ 1636  cd Formation\ Denodo/
+ 1637  cd DEN80EDU12D_LOCAL
+ 1638  cd sales
+ 1639  sudo sh ./start.sh
+ 1640  cd
+ 1641  echo $JAVA_HOME
+ 1642  history 2000
+ 1643  vim ~/.zshrc
+ 1644  history 3000
+ 1645  locate ~/.zshrc
+ 1646  cat ~/.zshrc
+ 1647  vim ~/.zshrc
+ 1648  cd /Users/mansour/
+ 1649  ls
+ 1650  ls -al
+ 1651  vim /.zshrc
+ 1652  vim .zshrc
+ 1653  ls -al
+ 1654  cd /opt
+ 1655  ls
+ 1656  cd homebrew
+ 1657  ls
+ 1658  cd opt
+ 1659  ls
+ 1660  pwd
+ 1661  cd ..
+ 1662  cd bin
+ 1663  ls
+ 1664  /usr/libexec/java_home
+ 1665  echo $JAVA_HOME
+ 1666  /usr/lib/jvm/java
+ 1667  cd /usr/lib/
+ 1668  ls
+ 1669  cd zsh
+ 1670  ls
+ 1671  cd 5.8.1
+ 1672  ls
+ 1673  cd zsh
+ 1674  ls
+ 1675  cd ../..
+ 1676  ls
+ 1677  cd ../..
+ 1678  ls
+ 1679  cd libexec
+ 1680  ls
+ 1681  echo "export JAVA_HOME=$(/usr/libexec/java_home)" >> ~/.zshrc
+ 1682  source ~/.zshrc
+ 1683  cat ~/.zshrc
+ 1684  ls
+ 1685  sudo sh ./start.sh
+ 1686  cd webapps
+ 1687  ls
+ 1688  cd ..
+ 1689  cd bin
+ 1690  ls
+ 1691  cd ..
+ 1692  ls
+ 1693  ls -al
+ 1694  sudo sh start.sh
+ 1695  echo "export JAVA_HOME=$(/usr/libexec/java_home)" >> ~/.bashrc
+ 1696  source ~/.bashrc
+ 1697  sudo sh start.sh
+ 1698  npm install oracledb@5.5.0 && exit 0
+ 1699  conda activate mlfold
+ 1700  write com.apple.finder CreateDesktop false
+ 1701  com.apple.finder CreateDesktop false
+ 1702  write com.apple.finder CreateDesktop false
+ 1703  defaults write com.apple.finder CreateDesktop false
+ 1704  killall Finder
+ 1705  clear
+ 1706  python 
+ 1707  time 
+ 1708  Iscpu
+ 1709  cat /proc/cpuinfos
+ 1710  sysctl -n machdep.cpu.brand_string
+ 1711  ls
+ 1712  pip install streamlit
+ 1713  time 2
+ 1714  clear
+ 1715  ode -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1716  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1717  whereis Mane
+ 1718  whereis /Documents
+ 1719  ls
+ 1720  cd Desktop
+ 1721  cd Documents
+ 1722  cd Mane\ Conseil
+ 1723  cd Projet\
+ 1724  ls
+ 1725  cd Projet\ emploi\
+ 1726  ls
+ 1727  cd RecSys
+ 1728  ls
+ 1729  git init
+ 1730  hit status
+ 1731  git status
+ 1732  git add .
+ 1733  ech "# RecSys " >> README.md
+ 1734  echo "# RecSys" >> README.md
+ 1735  ls
+ 1736  cat README.md
+ 1737  git add .
+ 1738  git config user.name "mm230"
+ 1739  git config user.email "mansourbarro.sow652@gmail.com"
+ 1740  git commit -m "First commit"
+ 1741  git status
+ 1742  git remote add origin https://github.com/mm230/RecSys.git
+ 1743  git push -u origin main
+ 1744  git remote add origin https://github.com/mm230/RecSys.git/
+ 1745  git push -u origin main
+ 1746  git remote
+ 1747  mkdir App
+ 1748  ls 
+ 1749  cd App
+ 1750  ls
+ 1751  ll
+ 1752  ls -l
+ 1753  ls -a
+ 1754  touch app.py
+ 1755  ls
+ 1756  cd ..
+ 1757  ls
+ 1758  git status
+ 1759  git commit -m "Adding App module"
+ 1760  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1761  gitt status
+ 1762  git status
+ 1763  cd Desktop
+ 1764  cd Documents/Mane\ Conseil/Projet\ emploi\ /RecSys
+ 1765  ls
+ 1766  git status
+ 1767  git commit
+ 1768  git log
+ 1769  git push -u origin main
+ 1770  ls
+ 1771  sh denodo_platform.sh
+ 1772  telnet
+ 1773  brew install telnet
+ 1774  telnet
+ 1775  telnet <localhost><8889>
+ 1776  telnet <localhost> <8889>
+ 1777  telnet <localhost 8889>
+ 1778  telnet <localhost> 8889
+ 1779  man telnet
+ 1780  telnet [localhost] [8889]
+ 1781  telnet [127.0.0.1] [8889]
+ 1782  cd Applications
+ 1783  ld
+ 1784  cd DenodoPlatform8.0
+ 1785  ls
+ 1786  cd
+ 1787  ls
+ 1788  cd A
+ 1789  cd Applications
+ 1790  ls
+ 1791  cd Chrome\ Apps.localized
+ 1792  ls
+ 1793  cd
+ 1794  cd /Applications/DenodoPlatform8.0/bin
+ 1795  ls
+ 1796  sh denodo_platform.sh
+ 1797  cd ..
+ 1798  ls
+ 1799  cd ..
+ 1800  ls
+ 1801  pwd
+ 1802  cd ..
+ 1803  ls
+ 1804  cd usr
+ 1805  ls
+ 1806  cd ..
+ 1807  ls
+ 1808  cd
+ 1809  ls
+ 1810  cd Desktop
+ 1811  s
+ 1812  cd
+ 1813  cd Desktop
+ 1814  ls
+ 1815  cd Documents
+ 1816  ls
+ 1817  cd HPM
+ 1818  ls
+ 1819  cd Formation\ Denodo/
+ 1820  ls
+ 1821  cd DEN80EDU12D_LOCAL
+ 1822  LS
+ 1823  ls
+ 1824  cd sales
+ 1825  ls
+ 1826  sudo sh start.sh
+ 1827  ls
+ 1828  cd bin
+ 1829  ls
+ 1830  echo export "JAVA_HOME=\$(/usr/libexec/java_home)" >> ~/.zshrc
+ 1831  source ~/zshrc
+ 1832  cd
+ 1833  source ~/zshrc
+ 1834  source ~/.zshrc
+ 1835  cat ~/.zshrc
+ 1836  cd Desktop/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/sales
+ 1837  ls
+ 1838  sudo sh start.sh
+ 1839  vim ~/.zshrc
+ 1840  sudo vim ~/.zshrc
+ 1841  locate ~/.zshrc
+ 1842  whereis ~/.zshrc
+ 1843  ls
+ 1844  cd files-for-denodo-container
+ 1845  ls
+ 1846  ll
+ 1847  ls -al
+ 1848  ls -a
+ 1849  ls
+ 1850  cd ..
+ 1851  ls
+ 1852  cd bin 
+ 1853  ls
+ 1854  sh ../start.sh
+ 1855  clear
+ 1856  cd ..
+ 1857  sudo sh start.sh
+ 1858  cleaar
+ 1859  clear
+ 1860  git status
+ 1861  git log --graph --oneline
+ 1862  ls
+ 1863  git status
+ 1864  git log
+ 1865  git branch
+ 1866  ls
+ 1867  lls
+ 1868  ls
+ 1869  ll
+ 1870  cd bin
+ 1871  ll
+ 1872  cd ../..
+ 1873  ls
+ 1874  cd sales
+ 1875  ls
+ 1876  cd webapps
+ 1877  ls
+ 1878  cd ../..
+ 1879  ll
+ 1880  sh denodo_platform.sh
+ 1881  /Users/mansour/opt/anaconda3/bin/java ; exit;
+ 1882  ls
+ 1883  cd sales
+ 1884  ls
+ 1885  sudo sh start.sh
+ 1886  cd 
+ 1887  ls
+ 1888  /usr/libexec/java_home
+ 1889  /usr/libexec/java_home -V
+ 1890  cat ~/.zshrc
+ 1891  sudo nano ~/.zshrc
+ 1892  cat ~/.zshrc
+ 1893  source ~/.zshrc
+ 1894  pwd
+ 1895  cd /Users/mansour/Desktop/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/sales
+ 1896  ls
+ 1897  sh start.sh
+ 1898  cd /Users/mansour/Desktop/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/sales
+ 1899  ls
+ 1900  cd ..
+ 1901  ls
+ 1902  cd product
+ 1903  ls
+ 1904  sudo sh start.sh
+ 1905  cd ..
+ 1906  cd sales
+ 1907  sudo sh start.sh
+ 1908  clear
+ 1909  source ~/.zshrc
+ 1910  sudo sh start.sh
+ 1911  cat ~/.zshrc
+ 1912  /usr/libexec/java_home
+ 1913  /usr/libexec/java_home -V
+ 1914  ode -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1915  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1916  conda activate base
+ 1917  clear
+ 1918  history 
+ 1919  clear
+ 1920  ls
+ 1921  sh denodo_platform.sh
+ 1922  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1923  sh denodo_platform.sh
+ 1924  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1925  pwd
+ 1926  python3 -m venv epmpnn
+ 1927  source epmpnn/bin/activate
+ 1928  pip list
+ 1929  python3 -m pip install --upgrade pip
+ 1930  pip list
+ 1931  pip install wheel
+ 1932  pip install twine
+ 1933  pip list
+ 1934  pip install numpy
+ 1935  pip install tqdm
+ 1936  pip install itertools
+ 1937  pip install pytorch
+ 1938  pip install torch
+ 1939  pip list
+ 1940  pip install torch_geometric
+ 1941  pip list
+ 1942  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1943  conda activate mlfold
+ 1944  pip env
+ 1945  conda env
+ 1946  conda -env list
+ 1947  conda-env list
+ 1948  conda env list
+ 1949  ifconfig
+ 1950  clear
+ 1951  conda env list
+ 1952  pip list
+ 1953  conda source epmpnn
+ 1954  conda source /bin/etc/epmpnn
+ 1955  history
+ 1956  source epmpnn/bin/activate
+ 1957  pip list
+ 1958  clear
+ 1959  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 1960  python
+ 1961  ls
+ 1962  sh denodo_platform.sh
+ 1963  clear
+ 1964  ls
+ 1965  cd env
+ 1966  LS
+ 1967  CD BIN
+ 1968  cd bin
+ 1969  LS
+ 1970  CD ..
+ 1971  ls
+ 1972  cd
+ 1973  clear
+ 1974  sh denodo_platform.sh
+ 1975  cd ..
+ 1976  ls
+ 1977  cd patches
+ 1978  ls
+ 1979  cd vdp
+ 1980  ls
+ 1981  ll
+ 1982  cd ../..
+ 1983  ls
+ 1984  cd extensions
+ 1985  ls
+ 1986  cd ..
+ 1987  cd ress
+ 1988  cd resources
+ 1989  ls
+ 1990  cd denodo
+ 1991  ls
+ 1992  cd ico
+ 1993  ls
+ 1994  cd ../..
+ 1995  cd ..
+ 1996  ls
+ 1997  cd tools
+ 1998  LS
+ 1999  CD ..
+ 2000  LS
+ 2001  CD ..
+ 2002  cd ..
+ 2003  ls
+ 2004  ll
+ 2005  whereis solution manager
+ 2006  cd bin
+ 2007  l
+ 2008  ls
+ 2009  sh datacatalog_startup.sh
+ 2010  sh vdpadmin.sh
+ 2011  ls
+ 2012  cd ..
+ 2013  ls
+ 2014  cd resources
+ 2015  ls
+ 2016  cd apache-tomcat
+ 2017  ls
+ 2018  cd conf/
+ 2019  ls
+ 2020  vim tomcat.properties
+ 2021  pwd
+ 2022  touch denodo_server_key_store.jks
+ 2023  cat jmxremote..password
+ 2024  cat jmxremote.password
+ 2025  cd ../../..
+ 2026  ls 
+ 2027  cd bin
+ 2028  ls
+ 2029  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2030  ls
+ 2031  clear
+ 2032  sh denodo_platform.sh
+ 2033  sudo sh denodo_platform.sh
+ 2034  ls
+ 2035  cd Applications
+ 2036  ls
+ 2037  cd
+ 2038  cd ~home
+ 2039  cd
+ 2040  ls
+ 2041  cd ..
+ 2042  ls
+ 2043  cd mansour
+ 2044  ls
+ 2045  cd Applications
+ 2046  ls
+ 2047  cd \ Apps.localized
+ 2048  clear
+ 2049  cd /Applications
+ 2050  ls
+ 2051  pwd ..
+ 2052  pwd
+ 2053  lls
+ 2054  cd DenodoPlatform8.0
+ 2055  ls
+ 2056  cd bin
+ 2057  ls
+ 2058  sudo sh denodo_platform.sh
+ 2059  sh denodo_platform.sh
+ 2060  sudo sh denodo_platform.sh
+ 2061  clear
+ 2062  vim tomcat.properties
+ 2063  clear
+ 2064  ifconfig
+ 2065  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2066  conda activate base
+ 2067  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2068  clear
+ 2069  mysql
+ 2070  brew start mysql
+ 2071  brew services start mysql
+ 2072  cd /usr/local/mysql-8.0.33-macos13-arm64/binbin
+ 2073  cd /usr/local/mysql-8.0.33-macos13-arm64/bin
+ 2074  ls
+ 2075  cd
+ 2076  sudo vim ~/.zshrc
+ 2077  cat ~/.zshrc
+ 2078  nano  ~/.zshrc
+ 2079  cat ~/.zshrc
+ 2080  source ~/.zshrc
+ 2081  clear
+ 2082  mysql -u 
+ 2083  mysql
+ 2084  mysql --user=root -p
+ 2085  cd /Applications/DenodoPlatform8.0/bin
+ 2086  ls
+ 2087  sudo sh denodo_platform.sh
+ 2088  clear
+ 2089  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2090  ls
+ 2091  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2092  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2093  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2094  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2095  conda activate base
+ 2096  ls
+ 2097  streamlit run src/streamlit_demo.py
+ 2098  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2099  conda activate base
+ 2100  streamlit run src/streamlit_demo.py
+ 2101  clear
+ 2102  pip install streamlit --upgrade
+ 2103  streamlit run src/streamlit_demo.py
+ 2104  python src/gradio_demo.py
+ 2105  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2106  cd /Applications/DenodoPlatform8.0/bin/Applications/DenodoPlatform8.0/bin
+ 2107  cd /Applications/DenodoPlatform8.0/bin/Applications/DenodoPlatform8.0/bin/
+ 2108  clear
+ 2109  cd /Applications/DenodoPlatform8.0/bin/Applications/DenodoPlatform8.0/bin/Applications/DenodoPlatform8.0/bin/
+ 2110  cd /Applications/DenodoPlatform8.0/bin
+ 2111  ls
+ 2112  sudo sh denodo_platform.sh
+ 2113  mysql --user=localhost -p
+ 2114  mysql --user=root -8889
+ 2115  mysql --user=root -p
+ 2116  mysql --user=localhost -p
+ 2117  clear
+ 2118  mysql --user=root -p
+ 2119  su root
+ 2120  su help
+ 2121  man su
+ 2122  clear
+ 2123  mysql --user=root -p
+ 2124  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2125  ls
+ 2126  cd /Applications/DenodoPlatform8.0/bin
+ 2127  clear
+ 2128  sudo sh denodo_platform.sh
+ 2129  cd ..
+ 2130  ls
+ 2131  cd licenses
+ 2132  ls
+ 2133  ls -l
+ 2134  cd licenses
+ 2135  ls
+ 2136  clear
+ 2137  ps -ef | grep java
+ 2138  cd ..
+ 2139  ls
+ 2140  cd bin
+ 2141  ls
+ 2142  sh vqlserver_startup.sh
+ 2143  sh datacatalog_startup.sh
+ 2144  sudo sh datacatalog_startup.sh
+ 2145  sudo sh denodo_platform.sh
+ 2146  ls
+ 2147  cd ..
+ 2148  ls
+ 2149  cd Uninstaller/
+ 2150  ls
+ 2151  cd ..
+ 2152  cd bin
+ 2153  sh webcontainer_shutdown.sh
+ 2154  sudo sh webcontainer_shutdown.sh
+ 2155  sudo sh denodo_platform.sh
+ 2156  ls
+ 2157  sudo sh webcontainer_shutdown.sh
+ 2158  ls
+ 2159  cd ..
+ 2160  clear
+ 2161  cd
+ 2162  ls
+ 2163  exit
+ 2164  cd /Users/mansour/Desktop/Documents/denodo-express-install-8_0..
+ 2165  cd /Users/mansour/Desktop/Documents/denodo-express-install-8_0
+ 2166  ls
+ 2167  cd denodo-update
+ 2168  ls
+ 2169  cd ..
+ 2170  cd denodo-installer-cli
+ 2171  ls
+ 2172  cd ..
+ 2173  ls
+ 2174  sudo ./installer_cli.sh
+ 2175  sudo sh installer_cli.sh
+ 2176  export JAVA_HOME=$(/user/libexec/java_home)
+ 2177  vim ~/.zshrc
+ 2178  cat ~/.zshrc
+ 2179  nano  ~/.zshrc
+ 2180  cat ~/.zshrc
+ 2181  sudo source  ~/.zshrc
+ 2182  source ~/.zshrc
+ 2183  cd 
+ 2184  /usr/libexec/java_home -V
+ 2185  echo export "JAVA_HOME=\$(/usr/libexec/java_home)" >> ~/.zshrc
+ 2186  cat ~/.zshrc
+ 2187  source ~/.zshrc
+ 2188  echo $JAVA_HOME
+ 2189  echo $SHELL
+ 2190  nano  ~/.zshenv
+ 2191  nano  ~/.zshrc
+ 2192  cat ~/.zshrc
+ 2193  source ~/.zshrc
+ 2194  cl
+ 2195  clear
+ 2196  cd /Users/mansour/Desktop/Documents/denodo-express-install-8_0
+ 2197  ls
+ 2198  sudo sh installer_cli.sh
+ 2199  echo $J
+ 2200  echo $JAVA_HOME
+ 2201  cat ~/.zshrc
+ 2202  sudo sh installer_cli.sh
+ 2203  unset JAVA_HOME
+ 2204  cat ~/.zshrc
+ 2205  /usr/libexec/java_home -V
+ 2206  printenv
+ 2207  java -version
+ 2208  javac -version
+ 2209  /usr/libexec/java_home -V
+ 2210  /usr/libexec/java_home 
+ 2211  cd /usr/libexec/ 
+ 2212  ls
+ 2213  java --version
+ 2214  echo $0
+ 2215  cd /Library/Java/JavaVirtualMachines/jdk1.8.0_333.jdk/Contents/
+ 2216  ls
+ 2217  cd Home
+ 2218  ls
+ 2219  cd bin
+ 2220  ls
+ 2221  cd ..
+ 2222  ls
+ 2223  cd jre
+ 2224  ls
+ 2225  cd bin
+ 2226  ls
+ 2227  cd ../../..
+ 2228  cd ../../../
+ 2229  ls
+ 2230  cat ~/.zshrc
+ 2231  nano  ~/.zshrc
+ 2232  cat ~/.zshrc
+ 2233  sudo nano  ~/.zshrc
+ 2234  cat ~/.zshrc
+ 2235  source ~/.zshrc
+ 2236  sudo source ~/.zshrc
+ 2237  vim ~/.zshrc
+ 2238  sudo source  ~/.zshrc
+ 2239  vim  ~/.zshrc
+ 2240  nano ~/.zshrc
+ 2241  sudo nano ~/.zshrc
+ 2242  cat ~/.zshrc
+ 2243  source ~/.zshrc
+ 2244  java --version
+ 2245  java -version
+ 2246  clear
+ 2247  whereis solution manager
+ 2248  clear
+ 2249  whereis jre
+ 2250  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2251  ls
+ 2252  sudo sh installer_cli.sh
+ 2253  cd /Users/mansour/Desktop/Documents/denodo-express-install-8_0
+ 2254  ls
+ 2255  sudo sh installer_cli.sh
+ 2256  /usr/libexec/java_home  -v
+ 2257  /usr/libexec/java_home  --v
+ 2258  /usr/libexec/java_home  -V
+ 2259  sudo nano ~/.zshrc
+ 2260  source ~/.zshrc
+ 2261  nano ~/.bash_profile
+ 2262  cat ~/.bash_profile
+ 2263  source ~/.bash_profile
+ 2264  echo $JAVA_HOME
+ 2265  sudo sh installer_cli.sh
+ 2266  sh installer_cli.sh
+ 2267  sh installer.sh
+ 2268  sh install.sh
+ 2269  cd Usage:\n  installer_cli generate <outputFilePath>\n  installer_cli install [ --autoinstaller <autoinstallerPath> | --generate <outputFilePath> ] [ --jre <jrePath> 
+ 2270  clear
+ 2271  cd /Applications/DenodoPlatform8.0/binUsage:\n  installer_cli generate <outputFilePath>\n  installer_cli install [ --autoinstaller <autoinstallerPath> | --generate <outputFilePath> ] [ --jre <jrePath> 
+ 2272  clear
+ 2273  cd /Applications/DenodoPlatform8.0/bin/Applications/DenodoPlatform8.0/binUsage:\n  installer_cli generate <outputFilePath>\n  installer_cli install [ --autoinstaller <autoinstallerPath> | --generate <outputFilePath> ] [ --jre <jrePath> 
+ 2274  clear
+ 2275  cd /Applications/DenodoPlatform8.0/bin
+ 2276  ls
+ 2277  sh denodo_platform.sh
+ 2278  sudo sh webcontainer_shutdown.sh
+ 2279  sh webcontainer_shutdown.sh
+ 2280  sh denodo_platform.sh
+ 2281  sh webcontainer_shutdown.sh
+ 2282  ls
+ 2283  clar
+ 2284  cd
+ 2285  cd ..
+ 2286  clear
+ 2287  ls
+ 2288  sh install.sh
+ 2289  cd /Applications/DenodoPlatform8.0/bin
+ 2290  ls
+ 2291  sh denodo_platform.sh
+ 2292  ls
+ 2293  clear
+ 2294  cd
+ 2295  clear
+ 2296  nifi start
+ 2297  nifi 
+ 2298  nifi stop
+ 2299  java -version
+ 2300  clear 
+ 2301  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2302  cd /Applications/DenodoPlatform8.0/bin
+ 2303  ls
+ 2304  cd /Users/mansour/Desktop/Documents/HPM/denodo-express-install-8_0
+ 2305  ls
+ 2306  sudo sh install.sh
+ 2307  cat ~/.bash_profile
+ 2308  cat ~/.zshrc
+ 2309  vim ~/.bash_profile
+ 2310  source ~/.bash_profile
+ 2311  cd /Users/mansour/Desktop/Documents/HPM/denodo-express-install-8_0
+ 2312  ls
+ 2313  sh install.sh
+ 2314  cd /Users/mansour/Desktop/Documents/HPM/denodo-express-install-8_0
+ 2315  ls
+ 2316  cd denodo-update
+ 2317  ls
+ 2318  cd /Applications/DenodoPlatform8.0/bin
+ 2319  ls
+ 2320  sudo sh denodo_platform.sh
+ 2321  ls
+ 2322  sudo sh webcontainer_shutdown.sh
+ 2323  clear
+ 2324  ls
+ 2325  restart 
+ 2326  clear
+ 2327  pwd
+ 2328  cd ../..
+ 2329  ls
+ 2330  cd ..
+ 2331  ls
+ 2332  cd opt
+ 2333  ls
+ 2334  cd X11
+ 2335  LS
+ 2336  CD BIN
+ 2337  cat bin
+ 2338  cd bin
+ 2339  ls
+ 2340  cd ../..
+ 2341  cd ..
+ 2342  ls
+ 2343  cd Library
+ 2344  ls
+ 2345  cd Java
+ 2346  ls
+ 2347  cd Extensions
+ 2348  ls
+ 2349  ll
+ 2350  cd ..
+ 2351  cd JavaVirtualMachines
+ 2352  ls
+ 2353  cd jdk1.8.0_333.jdk
+ 2354  ls
+ 2355  cd Contents
+ 2356  ls
+ 2357  cd Home
+ 2358  ls
+ 2359  cd jre
+ 2360  ls
+ 2361  cd bin
+ 2362  ls
+ 2363  cd java
+ 2364  cat java
+ 2365  clear
+ 2366  ls
+ 2367  cd ..
+ 2368  ls
+ 2369  cd lib
+ 2370  ls
+ 2371  cd ../..
+ 2372  ls
+ 2373  cd bin
+ 2374  ls
+ 2375  cat ~/.zshrc
+ 2376  /usr/libexec/java_home 
+ 2377  cd ..
+ 2378  ls
+ 2379  cd
+ 2380  clea
+ 2381  clear
+ 2382  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2383  ls
+ 2384  sudo denodo-update.jar 
+ 2385  sudo java -jar denodo-update.jar
+ 2386  ls
+ 2387  clear
+ 2388  cd /Applications/DenodoPlatform8.0/bin
+ 2389  ls
+ 2390  sh vqlserver_startup.sh
+ 2391  sh designstudio_startup.sh
+ 2392  sh denodo_platform.sh
+ 2393  ls
+ 2394  sudo sh datacatalog_startup.sh
+ 2395  sudo 
+ 2396  ls
+ 2397  clear
+ 2398  ls
+ 2399  sudo sh vqlserver_startup.sh
+ 2400  sudo sh denodo_platform.sh
+ 2401  sudo sh datacatalog_startup.sh
+ 2402  sudo sh designstudio_startup.sh
+ 2403  sudo sh designstudio_shutdown.sh
+ 2404  sudo sh datacatalog_shutdown.sh
+ 2405  sudo sh denodo_platform.sh.back.202308010 
+ 2406  sh denodo_platform.sh.back.202308010 
+ 2407  sh denodo_platform.sh 
+ 2408  sh datacatalog_startup.sh
+ 2409  sh designstudio_startup.sh
+ 2410  ls
+ 2411  cd ..
+ 2412  ls
+ 2413  cd ..
+ 2414  ls
+ 2415  cd ..
+ 2416  ls
+ 2417  ll
+ 2418  pwd
+ 2419  cd Applications
+ 2420  ls
+ 2421  cd DenodoPlatform8.0
+ 2422  ls
+ 2423  cd bin
+ 2424  ls
+ 2425  sh denodo_platform.sh 
+ 2426  ls
+ 2427  sudo sh datacatalog_startup.sh
+ 2428  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2429  cd
+ 2430  ls
+ 2431  cd Applications
+ 2432  ls
+ 2433  cd 
+ 2434  ls
+ 2435  cd
+ 2436  ls
+ 2437  cd ~home
+ 2438  cd home
+ 2439  cd ..
+ 2440  ls
+ 2441  cd ..
+ 2442  ls
+ 2443  cd System
+ 2444  ls
+ 2445  cd Applications
+ 2446  ls
+ 2447  cd ../..
+ 2448  ls
+ 2449  cd Applications
+ 2450  ls
+ 2451  ./myCANAL.app
+ 2452  ls
+ 2453  cd Contents
+ 2454  ls
+ 2455  cd MacOS
+ 2456  ls
+ 2457  cat myCANAL
+ 2458  ls
+ 2459  cd ..
+ 2460  ls
+ 2461  cd ..
+ 2462  ls
+ 2463  cd Applications/
+ 2464  ls
+ 2465  cd DenodoPlatform8.0
+ 2466  ls
+ 2467  cd bin
+ 2468  sh denodo_platform.sh 
+ 2469  cd
+ 2470  nodejs
+ 2471  clear
+ 2472  echo $PATH
+ 2473  npm
+ 2474  clear
+ 2475  npm install gh-pages --save-dev
+ 2476  npm install -g npm@9.8.1
+ 2477  sudo npm install -g npm@9.8.1
+ 2478  npm fund
+ 2479  npm install gh-pages --save-dev
+ 2480  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2481  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2482  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2483  ls
+ 2484  cd ..
+ 2485  ls
+ 2486  cd mansour
+ 2487  ls
+ 2488  cd Applications
+ 2489  ls
+ 2490  cd ..
+ 2491  cd
+ 2492  cd ..
+ 2493  ls
+ 2494  cd Applications
+ 2495  ls
+ 2496  cd DenodoPlatform8.0
+ 2497  ls
+ 2498  cd bin
+ 2499  ls
+ 2500  sh denodo_platform.sh 
+ 2501  cd DENODO_HOME>/metadata/db
+ 2502  clear
+ 2503  ls
+ 2504  cd /Applications/DenodoPlatform8.0/logs/vdp/
+ 2505  ls
+ 2506  cd
+ 2507  cd /Applications/DenodoPlatform8.0/logs/vdp/
+ 2508  sudo chown -R /Applications/DenodoPlatform8.0/logs/vdp/
+ 2509  sudo chown 777 /Applications/DenodoPlatform8.0/logs/vdp/
+ 2510  ls -l
+ 2511  sudo chmod 777 /Applications/DenodoPlatform8.0/logs/vdp/
+ 2512  ls -l
+ 2513  sudo chown mansour /Applications/DenodoPlatform8.0/logs/vdp/
+ 2514  ls -l
+ 2515  ls
+ 2516  cd ../..
+ 2517  ls
+ 2518  cd bin
+ 2519  ls
+ 2520  sh denodo_platform.sh 
+ 2521  ls
+ 2522  sh vdpadmin.sh
+ 2523  clear
+ 2524  ls
+ 2525  sh designstudio_startup.sh
+ 2526  clear
+ 2527  docker compose
+ 2528  docker run
+ 2529  docker start
+ 2530  clear
+ 2531  docker list
+ 2532  docker
+ 2533  docker composer container
+ 2534  docker images
+ 2535  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 2536  docker ps
+ 2537  docker inspect 46e
+ 2538  clea
+ 2539  clear
+ 2540  ls
+ 2541  spark 
+ 2542  clear
+ 2543  scala
+ 2544  clear
+ 2545  cls
+ 2546  clear
+ 2547  wget https://archive.cloudera.com/cm7/7.4.4/cloudera-manager-installer.bin
+ 2548  ls
+ 2549  chmod u+x cloudera-manager-installer.bin
+ 2550  sudo ./cloudera-manager-installer.bin
+ 2551  ls
+ 2552  pwd
+ 2553  ssh cloudera@192.168.64.8
+ 2554  wget https://archive.cloudera.com/cm7/7.4.4/cloudera-manager-installer.bin
+ 2555  chmod u+x cloudera-manager-installer.bin
+ 2556  ls
+ 2557  clear
+ 2558  sudo ./cloudera-manager-installer.bin
+ 2559  pwd
+ 2560  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2561  ode -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2562  scala
+ 2563  sbt
+ 2564  pip install pyspark
+ 2565  clear
+ 2566  pip list
+ 2567  clear
+ 2568  brew update
+ 2569  brew upgrade
+ 2570  git lfs install 
+ 2571  git lfs install --system
+ 2572  sudo git lfs install --system
+ 2573  brew install --cask db-browser-for-sqlite
+ 2574  CLEAR
+ 2575  LS
+ 2576  \tCLEAR
+ 2577  nifi run
+ 2578  clear
+ 2579  nifi start
+ 2580  cat nifi.properties
+ 2581  cd /opt/homebrew/Cellar/nifi/1.23.2
+ 2582  ls
+ 2583  cd bin
+ 2584  ls
+ 2585  cd ..
+ 2586  cd libexec
+ 2587  ls
+ 2588  cd con
+ 2589  cd conf
+ 2590  ls
+ 2591  cat nifi.properties
+ 2592  ls
+ 2593  cd ..
+ 2594  cat nifi-app.log
+ 2595  cd ..
+ 2596  ls
+ 2597  cd libexec
+ 2598  ls
+ 2599  cd run
+ 2600  ls
+ 2601  cd ..
+ 2602  cd logs
+ 2603  ls
+ 2604  cat nifi-app.log
+ 2605  ls
+ 2606  cat nifi-user.log
+ 2607  cat nifi-app.log
+ 2608  pwd
+ 2609  cd /opt/homebrew
+ 2610  ls
+ 2611  pwd
+ 2612  cd ..
+ 2613  ls
+ 2614  cd ..
+ 2615  ls
+ 2616  pwd
+ 2617  ./bin/nifi.sh set-single-user-credentials <mansour> <sow>
+ 2618  ./bin/nifi.sh set-single-user-credentials mansour sow
+ 2619  cd ..
+ 2620  ls
+ 2621  cd
+ 2622  ls
+ 2623  ./bin/nifi.sh set-single-user-credentials mansour sow
+ 2624  ls
+ 2625  cd Movies
+ 2626  ls
+ 2627  clear
+ 2628  cd
+ 2629  nifi stop
+ 2630  whereis nifi.sh
+ 2631  cd /opt/homebrew/Cellar/nifi/1.23.2
+ 2632  ls
+ 2633  cd bin
+ 2634  ls
+ 2635  ./nifi.sh set-single-user-credentials mansour sow
+ 2636  ./nifi 
+ 2637  nifi set-single-user-credentials mansour sow
+ 2638  nifi set-single-user-credentials mansour koldaSENEGAL@1
+ 2639  nifi start
+ 2640  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2641  nifi stop
+ 2642  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2643  clear
+ 2644  wget https://archive.cloudera.com/cm7/7.4.4/cloudera-manager-installer.bin
+ 2645  chmod u+x cloudera-manager-installer.bin
+ 2646  sudo ./cloudera-manager-installer.bin
+ 2647  chmod +x cloudera-manager-installer.bin
+ 2648  sudo ./cloudera-manager-installer.bin
+ 2649  clear
+ 2650  brew update
+ 2651  brew upgrade
+ 2652  google install postgresql macos
+ 2653  brew install postgresql@15
+ 2654  echo 'export PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"' >> ~/.zshrc
+ 2655  cat ~/.zshrc
+ 2656  nano ~/.zshrc
+ 2657  cat ~/.zshrc
+ 2658  brew services start postgresql@15
+ 2659  psql postgresql
+ 2660  postgresql 
+ 2661  psql postgres
+ 2662  whoami
+ 2663  cd /Library/PostgreSQL/15/bin
+ 2664  cd /Library/PostgreSQL
+ 2665  cd /Library/
+ 2666  ls
+ 2667  cd /opt/homebrew/opt/
+ 2668  ls
+ 2669  pwd
+ 2670  cd ..
+ 2671  ls
+ 2672  cd /opt/homebrew/opt/
+ 2673  cd postgresql@15
+ 2674  ls
+ 2675  cd bin
+ 2676  ls
+ 2677  pg_ctl stop
+ 2678  psql stop
+ 2679  ./postgres
+ 2680  cd
+ 2681  brew list
+ 2682  brew services start postgresql@15
+ 2683  psql --version
+ 2684  brew services list
+ 2685  psql list
+ 2686  cat ~/.zshrc
+ 2687  brew services list
+ 2688  clear
+ 2689  cd
+ 2690  clear
+ 2691  nifi start
+ 2692  nifi stop
+ 2693  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 2694  docker ps
+ 2695  clear
+ 2696  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 2697  clear
+ 2698  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 2699  docker ps
+ 2700  docker inspect c4
+ 2701  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 2702  docker ps
+ 2703  docker inspect 36e
+ 2704  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart
+ 2705  clear
+ 2706  brew update
+ 2707  brew upgrade
+ 2708  clear
+ 2709  pwd
+ 2710  ls
+ 2711  cd Documents
+ 2712  LS
+ 2713  ls -l
+ 2714  cd AMMI\ 
+ 2715  ls
+ 2716  cd Dojo_practice
+ 2717  ls
+ 2718  cd learning\ SQL
+ 2719  ls
+ 2720  mkdir northwind
+ 2721  ls
+ 2722  cd northwind
+ 2723  ls 
+ 2724  ls -l
+ 2725  ll
+ 2726  curl -O <https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql\>
+ 2727  curl -O <https://raw.githubusercontent.com/northwind.sql\>
+ 2728  curl -O https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql\\n
+ 2729  ls
+ 2730  ls -l
+ 2731  pwd
+ 2732  psql -U postgres -d northwind -f northwind.sql
+ 2733  brew services start postgresql@16
+ 2734  brew services start postgresql@15
+ 2735  createuser -s postgres
+ 2736  psql -U postgres
+ 2737  psql -U postgres -d northwind -f northwind.sql
+ 2738  psql -U postgres
+ 2739  psql -U postgres -d northwind -f northwind.sql
+ 2740  psql -U postgres -d northwind
+ 2741  pip list install ipython-sql
+ 2742  pip install ipython-sql
+ 2743  %load_ext sql
+ 2744  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2745  clear
+ 2746  pwd
+ 2747  ls
+ 2748  brew install apache-spark
+ 2749  spark-shell
+ 2750  nano ~/.zshrc
+ 2751  spark-shell
+ 2752  cat ~/.zshrc
+ 2753  source  ~/.zshrc
+ 2754  ls
+ 2755  ll
+ 2756  code Untitled.ipynb
+ 2757  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2758  code Window\ functions\ project\ .ipynb
+ 2759  spark-shell
+ 2760  nano ~/.zshrc
+ 2761  source ~/.zshrc
+ 2762  spark-shell
+ 2763  clear
+ 2764  pip install spylon-kernel
+ 2765  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2766  pip install --upgrade jupyter\n
+ 2767  clear
+ 2768  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2769  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2770  which python
+ 2771  python --versob
+ 2772  python --version
+ 2773  clear
+ 2774  pip install configparser
+ 2775  ls
+ 2776  cd Documents
+ 2777  ls
+ 2778  cd AMMI\ 
+ 2779  mkdir Dojo_practice/data_pipeline_project
+ 2780  cd Dojo_practice/data_pipeline_project
+ 2781  ls
+ 2782  ll
+ 2783  touch pipeline.conf
+ 2784  cat pipeline.conf
+ 2785  pip install boto3
+ 2786  clea
+ 2787  clear
+ 2788  pip list
+ 2789  pwd
+ 2790  pip list tqdm
+ 2791  conda env
+ 2792  conda env list
+ 2793  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2794  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2795  cd /Users/mansour/.kaggle
+ 2796  ls
+ 2797  ll
+ 2798  cp /Users/mansour/Desktop/ML competitions/Ribonanza/kaggle.jsonpwd User/mansour/.kaggle
+ 2799  cd ..
+ 2800  ls
+ 2801  ls -aa
+ 2802  ls -l
+ 2803  ls -al
+ 2804  clear
+ 2805  python -m spylon_kernel install --user
+ 2806  python -m spylon_kernel install --mansour
+ 2807  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2808  ifconfig
+ 2809  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2810  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2811  pyspark
+ 2812  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2813  cd /Users/mansour/Documents/AMMI /Dojo_practice/learning SQL
+ 2814  cd /Users/mansour/Documents/AMMI\ /Dojo_practice/learning\ SQL
+ 2815  ls
+ 2816  cd northwind
+ 2817  ls
+ 2818  git clone https://github.com/mm230/DEJ-SQL.githttps://atos-dakar.01-edu.org/git/odiallo/piscine
+ 2819  git clone https://github.com/mm230/DEJ-SQL.git
+ 2820  ls
+ 2821  cp Window_functions_project.ipynb /DEJ-SQL
+ 2822  ls -l
+ 2823  chmod 777 DEJ-SQL
+ 2824  ls -l
+ 2825  cp Window_functions_project.ipynb /DEJ-SQL
+ 2826  cd DEJ-SQL
+ 2827  ls
+ 2828  cp /northwind/Window_functions_project.ipynb /DEJ-SQL
+ 2829  cp ../northwind/Window_functions_project.ipynb /DEJ-SQL
+ 2830  cp ../Window_functions_project.ipynb /DEJ-SQL
+ 2831  cp ../Window_functions_project.ipynb DEJ-SQL
+ 2832  ls
+ 2833  cd DEJ-SQL
+ 2834  ls
+ 2835  cd ..
+ 2836  ls
+ 2837  cd DEJ-SQL
+ 2838  ls
+ 2839  cd ..
+ 2840  ll
+ 2841  ls -al
+ 2842  rm -r DEJ-SQL
+ 2843  ls
+ 2844  git clone https://github.com/mm230/DEJ-SQL.git
+ 2845  ls
+ 2846  cp Window_functions_project.ipynb DEJ-SQL
+ 2847  ls
+ 2848  cd DEJ-SQL
+ 2849  ls
+ 2850  git statuw
+ 2851  git status
+ 2852  git add .
+ 2853  git commit -m "Adding window functions notebook"
+ 2854  git status
+ 2855  git branch -M main
+ 2856  git push -u origin main
+ 2857  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2858  cd /Users/mansour/Documents/HPM/Denodo ressources/denodo-express-install-8_0
+ 2859  cd /Users/mansour/Documents/HPM/Denodo\ ressources/denodo-express-install-8_0
+ 2860  ls
+ 2861  sh installer_cli.sh
+ 2862  ./installer_cli.sh
+ 2863  chmod +x installer_cli.sh
+ 2864  ./installer_cli.sh
+ 2865  ls
+ 2866  sh installer_cli.sh
+ 2867  installer_cli.sh install
+ 2868  ./installer_cli.sh
+ 2869  ./installer_cli.sh install
+ 2870  ls
+ 2871  ./install.sh install
+ 2872  chmod +x ./install.sh
+ 2873  ./install.sh install
+ 2874  clear
+ 2875  cd /Applications/DenodoPlatform8.0/bin
+ 2876  ls
+ 2877  sh designstudio_startup.sh
+ 2878  sh denodo_platform.sh 
+ 2879  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2880  cd /Users/mansour/Documents/AMMI /Dojo_practice/Introduction to spark
+ 2881  cd /Users/mansour/Documents/AMMI\ /Dojo_practice/Introduction\ to\ spark
+ 2882  ls
+ 2883  spark-submit Example-3_6.py
+ 2884  scala
+ 2885  clear
+ 2886  ls
+ 2887  /Users/mansour/opt/anaconda3/bin/jupyter_mac.command ; exit;
+ 2888  ode -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2889  conda activate base
+ 2890  export AIRFLOW_HOME=~/airflow
+ 2891  AIRFLOW_VERSION=2.7.2\n\n# Extract the version of Python you have installed. If you're currently using a Python version that is not supported by Airflow, you may want to set this manually.\n# See above for supported versions.\nPYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"\n\nCONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"\n# For example this would install 2.7.2 with python 3.8: https://raw.githubusercontent.com/apache/airflow/constraints-2.7.2/constraints-3.8.txt\n\npip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+ 2892  \t\npython - m pip install – upgrade pip
+ 2893  pip install - upgrade wheel
+ 2894  \t\npython -m pip install –upgrade pip
+ 2895  pip install --upgrade pip
+ 2896  pip install --upgrade setuptools wheel
+ 2897  AIRFLOW_VERSION=2.7.2\n\n# Extract the version of Python you have installed. If you're currently using a Python version that is not supported by Airflow, you may want to set this manually.\n# See above for supported versions.\nPYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"\n\nCONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"\n# For example this would install 2.7.2 with python 3.8: https://raw.githubusercontent.com/apache/airflow/constraints-2.7.2/constraints-3.8.txt\n\npip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+ 2898  pip install pybind11-global==2.10.4
+ 2899  pip install pyre2\n
+ 2900  pip install Cmake
+ 2901  pip install google-re2 --only-binary ':all:\n'
+ 2902  pip install --upgrade setuptools
+ 2903  python --version
+ 2904  clear
+ 2905  conda create --denv airflow_env python=3.9 -y\n
+ 2906  conda create --name airflow_env python=3.9 -y\n
+ 2907  conda activate airflow_env
+ 2908  AIRFLOW_VERSION=2.7.2\n\n# Extract the version of Python you have installed. If you're currently using a Python version that is not supported by Airflow, you may want to set this manually.\n# See above for supported versions.\nPYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"\n\nCONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"\n# For example this would install 2.7.2 with python 3.8: https://raw.githubusercontent.com/apache/airflow/constraints-2.7.2/constraints-3.8.txt\n\npip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+ 2909  pip install "apache-airflow==2.7.2" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.7.2/constraints-no-providers-3.9.txt"\n
+ 2910  pyenv install 3.11.5
+ 2911  $ pip install google-re2\n
+ 2912  pip install google-re2\n
+ 2913  brew update
+ 2914  conda deactivate
+ 2915  brew update
+ 2916  brew tap --repair
+ 2917  brew update
+ 2918  brew upgrade
+ 2919  conda update conda
+ 2920  conda ?
+ 2921  man conda
+ 2922  clear
+ 2923  conda update --all
+ 2924  conda update --all --yes
+ 2925  conda install anaconda
+ 2926  conda update conda
+ 2927  conda update --all
+ 2928  clear
+ 2929  python --version
+ 2930  pip upgrade python
+ 2931  pip update python
+ 2932  clear
+ 2933  conda update python
+ 2934  clear
+ 2935  conda install anaconda-clean
+ 2936  conda install anaconda\n
+ 2937  cleer
+ 2938  clear
+ 2939  which anaconda
+ 2940  conda deactivate
+ 2941  clear
+ 2942  which anaconda
+ 2943  clear
+ 2944  exit
+ 2945  python --version
+ 2946  export AIRFLOW_HOME=~/airflow
+ 2947  AIRFLOW_VERSION=2.7.2\n\n# Extract the version of Python you have installed. If you're currently using a Python version that is not supported by Airflow, you may want to set this manually.\n# See above for supported versions.\nPYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"\n\nCONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"\n# For example this would install 2.7.2 with python 3.8: https://raw.githubusercontent.com/apache/airflow/constraints-2.7.2/constraints-3.8.txt\n\npip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+ 2948  airflow standalone
+ 2949  conda install -c esri deep-learning-essentials
+ 2950  conda list
+ 2951  conda install -c "esri/label/beta" deep-learning-essentials\n
+ 2952  conda config --append channels conda-forge\n
+ 2953  conda install requests
+ 2954  cd ~/.condarc
+ 2955  whereis ~/.condarc
+ 2956  conda install pytorch torchvision -c pytorch\n
+ 2957  clear
+ 2958  man airflow
+ 2959  airflow -help
+ 2960  airflow -users
+ 2961  airflow users
+ 2962  airflow -h users
+ 2963  conda install pytorch torchvision -c pytorch\n
+ 2964  conda update --force conda\n
+ 2965  conda install pytorch torchvision -c pytorch\n
+ 2966  conda install -c esri deep-learning-essentials
+ 2967  conda install pytorch torchvision -c pytorch\n
+ 2968  conda update -n base -c defaults conda
+ 2969  conda install pytorch torchvision -c pytorch\n
+ 2970  conda --version
+ 2971  conda install -c esri deep-learning-essentials
+ 2972  conda install -c "esri/label/beta" deep-learning-essentials\n
+ 2973  conda create -n tf tensorflow\n
+ 2974  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 2975  clear
+ 2976  sudo xcodebuild –license
+ 2977  sudo xcodebuild –license -alltargets
+ 2978  sudo xcodebuild –license accept
+ 2979  clear
+ 2980  sudo xcodebuild -license accept
+ 2981  sudo port –v self-update
+ 2982  sudo port –v selfupdate
+ 2983  sudo port install putty\n
+ 2984  history
+ 2985  clear
+ 2986  echo 'export PATH=$PATH:/opt/local/bin' >> ~/.zshrc
+ 2987  source ~/.zshrc
+ 2988  history
+ 2989  clear
+ 2990  sudo port –v selfupdate
+ 2991  sudo port install putty\n
+ 2992  clear
+ 2993  putty
+ 2994  clear
+ 2995  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 2996  python3 --version
+ 2997  python --version
+ 2998  clear
+ 2999  airflow
+ 3000  cleAR
+ 3001  CD
+ 3002  cd
+ 3003  clear
+ 3004  ls
+ 3005  cd Documents
+ 3006  ls
+ 3007  mkdir airflow_project
+ 3008  ls
+ 3009  cd airflow_project
+ 3010  ls 
+ 3011  ls -al
+ 3012  clear
+ 3013  airflow db init
+ 3014  clear
+ 3015  airflow db init
+ 3016  clear
+ 3017  airflow
+ 3018  clear
+ 3019  airflow
+ 3020  anaconda-navigator
+ 3021  clear
+ 3022  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 3023  pip install ipython-sql
+ 3024  pip install -U Flask-SQLAlchemy
+ 3025  pip install SQLAlchemy
+ 3026  clear
+ 3027  sqlalchemy
+ 3028  clear
+ 3029  pip install psycopg2
+ 3030  pip install wheel\n
+ 3031  brew update
+ 3032  brew upgrade
+ 3033  exit
+ 3034  python --version
+ 3035  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3036  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 3037  brew update
+ 3038  clear
+ 3039  ls
+ 3040  cd Sites
+ 3041  ls
+ 3042  cd localhost
+ 3043  ls
+ 3044  clear
+ 3045  cd
+ 3046  clear
+ 3047  ls
+ 3048  clea
+ 3049  clear
+ 3050  airflow
+ 3051  clear
+ 3052  python --version
+ 3053  pip install psycopg2wheel\n
+ 3054  clear
+ 3055  pip install psycopg2\n
+ 3056  clear
+ 3057  conda update conda
+ 3058  clar
+ 3059  clear
+ 3060  pip install psycopg2\n
+ 3061  airflow
+ 3062  pip uninstall psycopg2\n
+ 3063  pip install --upgrade wheel
+ 3064  pip install psycopg2\n
+ 3065  clear
+ 3066  airflow
+ 3067  pip --update tensorflow
+ 3068  pip --update setuptools
+ 3069  pip --upgrade setuptools
+ 3070  clea
+ 3071  clear
+ 3072  pip install --upgrade setuptools
+ 3073  pip install --upgrade tensorflow
+ 3074  pip install --upgrade sqlalchemy
+ 3075  airflow
+ 3076  pip install --upgrade Flask-SQLAlchemy
+ 3077  conda update conda
+ 3078  conda update -n base -c defaults conda
+ 3079  pip install jax
+ 3080  clear
+ 3081  airflow db init
+ 3082  pip list
+ 3083  pip install mysql-connector-python
+ 3084  pip install MySQL-python
+ 3085  pip install configparser\n
+ 3086  pip install MySQL-python
+ 3087  pip install mysqlclient\n
+ 3088  pip install ConfigParser\n
+ 3089  pip install --upgrade setuptools
+ 3090  pip install MySQL-python
+ 3091  pip --version
+ 3092  python.exe -m pip install --upgrade pip
+ 3093  python -m pip install --upgrade pip
+ 3094  pip install MySQL-python
+ 3095  airflow
+ 3096  pip3 install --upgrade pip
+ 3097  clear
+ 3098  airflow standalone
+ 3099  pip install --upgrade airflow
+ 3100  pip install --upgrade apache-airflow
+ 3101  airflow
+ 3102  airflow db init
+ 3103  pip install --upgrade ipython-sql
+ 3104  airflow
+ 3105  pip install --upgrade apache-airflow
+ 3106  pip uninstall apache-airflow
+ 3107  airflow
+ 3108  clear
+ 3109  ls
+ 3110  pwd
+ 3111  rmdir -r /Users/mansour/airflow
+ 3112  rmdir /Users/mansour/airflow
+ 3113  sudo rmdir --r /Users/mansour/airflow
+ 3114  sudo rmdir r /Users/mansour/airflow
+ 3115  sudo rmdir -r /Users/mansour/airflow
+ 3116  sudo rm -r /Users/mansour/airflow
+ 3117  pwd
+ 3118  cd
+ 3119  clea
+ 3120  clear
+ 3121  cd /Users/mansour
+ 3122  ls
+ 3123  clear
+ 3124  cd Documents
+ 3125  ls
+ 3126  cd airflow_project
+ 3127  ls
+ 3128  ll
+ 3129  python -m venv airflow_env
+ 3130  source airflow_env/bin/activate
+ 3131  conda deactivate base
+ 3132  conda deactivate airflow_env
+ 3133  conda deactivate
+ 3134  clear
+ 3135  python --version
+ 3136  pip install 'apache-airflow==2.7.3' \\n --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.7.3/constraints-3.11.txt"
+ 3137  pip --version
+ 3138  ls
+ 3139  export AIRFLOW_HOME=.
+ 3140  ls
+ 3141  export AIRFLOW_HOME=.
+ 3142  airflow
+ 3143  airflow db init
+ 3144  airflow webserver -p 8080
+ 3145  export AIRFLOW_HOME=~/airflow
+ 3146  ls
+ 3147  airflow webserver -p 8080
+ 3148  airflow db init
+ 3149  airflow webserver -p 8080
+ 3150  airflow users create
+ 3151  airflow users create --username admin --firstname mansour --lastname sow --role Admin --email mansourbarro.sow652@gmail.com
+ 3152  airflow webserver -p 8080
+ 3153  source airflow_env/bin/activate
+ 3154  cd Documen
+ 3155  cd Documents
+ 3156  ls
+ 3157  cd airflow_project
+ 3158  ls
+ 3159  source airflow_env/bin/activate
+ 3160  conda deactivate
+ 3161  airflow scheduler
+ 3162  export AIRFLOW_HOME=.
+ 3163  airflow scheduler
+ 3164  export AIRFLOW_HOME=~/airflow
+ 3165  airflow scheduler
+ 3166  clear
+ 3167  cleAR
+ 3168  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3169  clear
+ 3170  conda deactivate
+ 3171  conda activate base
+ 3172  clear
+ 3173  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3174  clear
+ 3175  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3176  date
+ 3177  man fr
+ 3178  man FRA
+ 3179  man
+ 3180  man -fr
+ 3181  man man
+ 3182  man -P
+ 3183  man -p fr
+ 3184  clea
+ 3185  rclear
+ 3186  clear
+ 3187  airflow
+ 3188  cd
+ 3189  airflow 
+ 3190  man airflow
+ 3191  source airflow_env/bin/activate
+ 3192  airflow
+ 3193  cd
+ 3194  airflow
+ 3195  cd Doc
+ 3196  cd Documents
+ 3197  ls
+ 3198  pwd
+ 3199  cd
+ 3200  cd Documents
+ 3201  ls
+ 3202  cd airflow_project
+ 3203  ls
+ 3204  cd logs
+ 3205  ls
+ 3206  cd dag_processor_manager
+ 3207  ls
+ 3208  cat dag_processor_manager.log
+ 3209  clear
+ 3210  cd ..
+ 3211  l
+ 3212  ll
+ 3213  source airflow_env/bin/activate
+ 3214  conda deactivate
+ 3215  airflow
+ 3216  clear
+ 3217  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 3218  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3219  ls
+ 3220  cd Applications
+ 3221  ls
+ 3222  cd ..
+ 3223  ls
+ 3224  cd mansour
+ 3225  ls
+ 3226  cd Applications
+ 3227  LS
+ 3228  ls
+ 3229  whereis denodo
+ 3230  cd /Applications
+ 3231  ls
+ 3232  cd DenodoPlatform8.0
+ 3233  ls
+ 3234  cd patches
+ 3235  ls\\n
+ 3236  cat denodo-update-202303012200.xml
+ 3237  cd
+ 3238  cd jre
+ 3239  whereis jre
+ 3240  which jre
+ 3241  
+ 3242  cd ~/macintosh
+ 3243  cd ~home
+ 3244  cd ~
+ 3245  ls
+ 3246  cd ..
+ 3247  ls
+ 3248  cd ..
+ 3249  ls
+ 3250  cd Applications
+ 3251  ls
+ 3252  cd DenodoPlatform8.0
+ 3253  ls
+ 3254  cd bin
+ 3255  ls
+ 3256  sh denodo_platform.sh 
+ 3257  echo "database" | cut -c1-5
+ 3258  man tr
+ 3259  man tr -fr
+ 3260  clear
+ 3261  start_postgres
+ 3262  psql -U postgres -d northwind
+ 3263  clear
+ 3264  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3265  scala -version
+ 3266  scala
+ 3267  clear
+ 3268  exit
+ 3269  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3270  code .
+ 3271  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3272  scala
+ 3273  sbt
+ 3274  clear
+ 3275  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3276  clear
+ 3277  python3 -m pip install kafka-python
+ 3278  clear
+ 3279  sudo xcodebuild -license
+ 3280  clear
+ 3281  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3282  conda env list
+ 3283  cd 
+ 3284  ls
+ 3285  cd Documents
+ 3286  ls
+ 3287  cd airflow_project
+ 3288  conda env list
+ 3289  source /bin/env/ airlflow_env
+ 3290  clear
+ 3291  history
+ 3292  source /bin/env/airlflow_env
+ 3293  clear
+ 3294  source airflow_env/bin/activate
+ 3295  conda deactivate
+ 3296  pip list
+ 3297  pip install --upgrade pip 
+ 3298  clear
+ 3299  cinda list
+ 3300  conda list
+ 3301  clear
+ 3302  start_airflow
+ 3303  airflow
+ 3304  airflow webserver -p 8080
+ 3305  curl -L "https://ll.thespacedevs.com/2.0.0/launch/upcoming"
+ 3306  clear
+ 3307  curl -L "https://ll.thespacedevs.com/2.0.0/launch/upcoming"
+ 3308  clear
+ 3309  pw
+ 3310  cd ~/Documents/airflow_project
+ 3311  ls
+ 3312  source airflow_env/bin/activate
+ 3313  conda deactivate 
+ 3314  clear
+ 3315  ls
+ 3316  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3317  clear
+ 3318  ls
+ 3319  mkdir rocket_images
+ 3320  ls
+ 3321  cd rocket_images
+ 3322  ls
+ 3323  pwd
+ 3324  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3325  clear
+ 3326  history
+ 3327  clear
+ 3328  airflow
+ 3329  airflow scheduler
+ 3330  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3331  cd ~/Documents/airflow_project
+ 3332  ls
+ 3333  cp john_dag.py ~/airflow/dags/
+ 3334  history
+ 3335  export AIRFLOW_HOME=~/airflow
+ 3336  cp john_dag.py ~/airflow/dags/
+ 3337  cd airflow_dags
+ 3338  ls airflow_env
+ 3339  cp john_dag.py ~/airflow/dags/
+ 3340  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 3341  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3342  clear
+ 3343  source airflow_env/bin/activate
+ 3344  conda deactivate 
+ 3345  conda deactivate airflow_env
+ 3346  cllear
+ 3347  conda activate base
+ 3348  conda deactivate airflow_env
+ 3349  cd ..
+ 3350  ls
+ 3351  cd airflow_docker
+ 3352  ls
+ 3353  conda deactivate 
+ 3354  clear
+ 3355  docker --version
+ 3356  docker-compose --version
+ 3357  docker run --rm "debian:bullseye-slim" bash -c 'numfmt --to iec $(echo $(($(getconf _PHYS_PAGES) * $(getconf PAGE_SIZE))))'
+ 3358  curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.7.3/docker-compose.yaml'
+ 3359  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3360  pwd
+ 3361  conda deactivate 
+ 3362  clear
+ 3363  ls
+ 3364  mkdir -p ./dags ./logs ./plugins ./config
+ 3365  docker compose up airflow-init
+ 3366  docker compose up -d
+ 3367  docker ps
+ 3368  clear
+ 3369  ls
+ 3370  ls dags
+ 3371  ll dags
+ 3372  CD ../airflow_project
+ 3373  LS
+ 3374  ls
+ 3375  cd ../airflow_project
+ 3376  ls
+ 3377  clear
+ 3378  ls
+ 3379  airlfow
+ 3380  source airflow_env/bin/activate
+ 3381  airflow 
+ 3382  airflow users
+ 3383  airflow users list
+ 3384  touch kafka-stream.py
+ 3385  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3386  source airflow_env/bin/activate
+ 3387  conda env list
+ 3388  conda deactivate 
+ 3389  conda env list
+ 3390  clear
+ 3391  airflow
+ 3392  clear
+ 3393  ls
+ 3394  mkdir /dags
+ 3395  mkdir dags
+ 3396  ls
+ 3397  cd dags
+ 3398  ll
+ 3399  mv ../kafka_stream.py dags/
+ 3400  mv ../kafka_stream.py ../dags
+ 3401  clear
+ 3402  ls
+ 3403  python kafka_stream.py
+ 3404  clear
+ 3405  python kafka_stream.py
+ 3406  clear
+ 3407  python3 kafka_stream.py
+ 3408  python kafka_stream.py
+ 3409  clear
+ 3410  python kafka_stream.py
+ 3411  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3412  clear
+ 3413  source airflow_env/bin/activate
+ 3414  cd ..
+ 3415  source airflow_env/bin/activate
+ 3416  python dag/kafka_stream.py
+ 3417  ls
+ 3418  python dags/kafka_stream.py
+ 3419  python test.py
+ 3420  clear
+ 3421  pip list
+ 3422  clear
+ 3423  pwd
+ 3424  cd Documents
+ 3425  ls
+ 3426  ls -l
+ 3427  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3428  cd ..
+ 3429  ls
+ 3430  ll
+ 3431  clear
+ 3432  ls
+ 3433  brew update
+ 3434  brew upgrade
+ 3435  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3436  brew update
+ 3437  brew upgrade
+ 3438  spark-shell
+ 3439  brew install astro
+ 3440  astro version
+ 3441  cd Documents
+ 3442  ls
+ 3443  cd e2e_pipeline_Bigquery_airflow_dbt_metabase
+ 3444  ls
+ 3445  clear
+ 3446  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3447  ls
+ 3448  .ear
+ 3449  clear
+ 3450  astro dev start
+ 3451  astro dev init
+ 3452  astro dev start
+ 3453  clear
+ 3454  ls
+ 3455  docker init
+ 3456  clear
+ 3457  astro dev start
+ 3458  clear
+ 3459  astro dev init
+ 3460  astro dev start
+ 3461  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3462  astro dev stop
+ 3463  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3464  clear
+ 3465  astro dev start
+ 3466  astro dev restart
+ 3467  cd
+ 3468  wereis denodo_platform.sh
+ 3469  cd Applications
+ 3470  ls'\n\n\n\n\nq\n.\n'
+ 3471  clear
+ 3472  ls
+ 3473  cd
+ 3474  cd..
+ 3475  cd ../..
+ 3476  ls
+ 3477  cd Applications
+ 3478  ls
+ 3479  clear
+ 3480  ls
+ 3481  cd DenodoPlatform8.0
+ 3482  ls
+ 3483  cd patches
+ 3484  ls
+ 3485  cd vdp
+ 3486  ls
+ 3487  cd denodo-vdp-v80-patch-202303012200
+ 3488  ls
+ 3489  cd ../..
+ 3490  ls
+ 3491  cd ..
+ 3492  ls
+ 3493  cd bin
+ 3494  ls
+ 3495  sudo sh denodo_platform.sh 
+ 3496  java -version
+ 3497  javac -version
+ 3498  java
+ 3499  java --version
+ 3500  cat  ~/.zshrc
+ 3501  clear
+ 3502  echo java
+ 3503  echo $JAVA-HOME
+ 3504  /usr/libexec/java_home
+ 3505  cd /Library/Java/JavaVirtualMachines/jdk1.8.0_333.jdk/Contents/bin
+ 3506  sudo rm -fr /Users/mansour/Library/Java/JavaVirtualMachines/*
+ 3507  cd /Users/mansour
+ 3508  ls
+ 3509  cd ..
+ 3510  ls
+ 3511  cd ..
+ 3512  ls
+ 3513  cd Library/\LS
+ 3514  cd Library/
+ 3515  LS
+ 3516  cd Java
+ 3517  ls
+ 3518  cd JavaVirtualMachines
+ 3519  ls
+ 3520  cd jdk1.8.0_333.jdk
+ 3521  ls
+ 3522  cd Contents
+ 3523  ls
+ 3524  pwd
+ 3525  cd
+ 3526  sudo rm -fr /Library/Java/JavaVirtualMachines/*
+ 3527  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 3528  brew install openjdk@11
+ 3529  sudo ln -sfn /usr/local/opt/openjdk@11/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk-11.jdk
+ 3530  java -version
+ 3531  which java
+ 3532  sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin
+ 3533  sudo rm -fr /Library/PreferencePanes/JavaControlPanel.prefPane
+ 3534  sudo rm -fr ~/Library/Application\ Support/Oracle/Java
+ 3535  java -version
+ 3536  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3537  clear
+ 3538  java -version
+ 3539  git clone git@github.com:mneedham/real-time-analytics-book.git
+ 3540  cd
+ 3541  ls
+ 3542  cd Documents
+ 3543  cd DEP
+ 3544  LS
+ 3545  ls
+ 3546  git clone git@github.com:mneedham/real-time-analytics-book.git
+ 3547  git connect
+ 3548  git -connect
+ 3549  git -versio
+ 3550  git -version
+ 3551  git --version
+ 3552  clear
+ 3553  git clone git@github.com:mneedham/real-time-analytics-book.git
+ 3554  ssh-keygen
+ 3555  cd ~/.ssh
+ 3556  ls
+ 3557  cat id_rsa.pub
+ 3558  cd ~/Documents/DEP
+ 3559  git clone mneedham/real-time-analytics-book.git
+ 3560  git clone git@github.com:mm230/real-time-analytics-book.git
+ 3561  ssh -T git@github.com
+ 3562  git remote set-url origin git@github.com:mm230/real-time-analytics-book.git
+ 3563  git clone git@github.com:mm230/real-time-analytics-book.git
+ 3564  ls
+ 3565  git remote set-url origin git@github.com:mm230/real-time-analytics-book.git
+ 3566  cd real-time-analytics-book
+ 3567  git remote set-url origin git@github.com:mm230/real-time-analytics-book.git
+ 3568  ssh -T git@github.com
+ 3569  clea
+ 3570  ls
+ 3571  cd debezium
+ 3572  ls
+ 3573  cat register_mysql.sh
+ 3574  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3575  ls
+ 3576  cd ..
+ 3577  ls
+ 3578  ll
+ 3579  git status
+ 3580  git
+ 3581  ls -al
+ 3582  java -version
+ 3583  which denodo
+ 3584  ls
+ 3585  cd ../..
+ 3586  ls
+ 3587  cd Applications/DenodoPlatform8.0
+ 3588  ls
+ 3589  cd bin
+ 3590  ls
+ 3591  sudo sh denodo_platform.sh 
+ 3592  cat ~/.zshrc
+ 3593  /usr/libexec/java_home
+ 3594  source ~/.zshrc
+ 3595  sudo sh denodo_platform.sh 
+ 3596  clear
+ 3597  /usr/libexec/java_home
+ 3598  cd ~/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home
+ 3599  cd ~/Library/Java/JavaVirtualMachines
+ 3600  cd ~/Library/Java/
+ 3601  clear
+ 3602  export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home
+ 3603  cat ~/.zshrc
+ 3604  JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home
+ 3605  export JAVA_HOME
+ 3606  PATH=$JAVA_HOME/bin:$PATH
+ 3607  export PATH
+ 3608  cat ~/.zshrc
+ 3609  nano ~/.zshrc
+ 3610  cd ../..
+ 3611  ls
+ 3612  cd library
+ 3613  pwd
+ 3614  ls
+ 3615  cd Java
+ 3616  LS
+ 3617  cd JavaVirtualMachines
+ 3618  ls
+ 3619  java -version
+ 3620  ls
+ 3621  docker-compose --version
+ 3622  docker-compose -f docker-compose-base.yml up
+ 3623  docker pull --platform linux/x86_64 mysql
+ 3624  docker-compose -f docker-compose-base.yml up
+ 3625  ls
+ 3626  docker-compose -f docker-compose-base.yml down
+ 3627  clear
+ 3628  docker-compose -f docker-compose-base.yml up
+ 3629  docker-compose -f docker-compose-base.yml down
+ 3630  clear
+ 3631  docker-compose -f docker-compose-base.yml up
+ 3632  clear
+ 3633  docker-compose -f docker-compose-base.yml up
+ 3634  docker-compose -f docker-compose-base.yml down
+ 3635  clear
+ 3636  docker pull --platform linux/x86_64 mysql
+ 3637  docker-compose -f docker-compose-base.yml up
+ 3638  docker exec -it mysql mysql -u mysqluser -p
+ 3639  ls
+ 3640  cd mysql
+ 3641  ls
+ 3642  docker exec -it mysql mysql -u mysqluser -p
+ 3643  clear
+ 3644  docker-compose -f docker-compose-base.yml up
+ 3645  cd ..
+ 3646  clear
+ 3647  docker-compose -f docker-compose-base.yml up
+ 3648  git status
+ 3649  clear
+ 3650  cd
+ 3651  clear
+ 3652  sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin\nsudo rm -fr /Library/PreferencesPanes/JavaControlPanel.prefPane \nsudo rm -fr ~/Library/Application\ Support/Oracle/Java
+ 3653  clear
+ 3654  sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin \\nsudo rm -fr /Library/PreferencesPanes/JavaControlPanel.prefPane \\nsudo rm -fr ~/Library/Application\ Support/Oracle/Java
+ 3655  clear
+ 3656  sudo rm -fr /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin\n
+ 3657  sudo rm -fr /Library/PreferencesPanes/JavaControlPanel.prefPane
+ 3658  sudo rm -fr ~/Library/Application\ Support/Oracle/Java
+ 3659  clear
+ 3660  java -version
+ 3661  cd /Library/Java/JavaVirtualMachines
+ 3662  ls
+ 3663  sudo rm -fr temurin-11.jdk
+ 3664  ls
+ 3665  sudo rm -fr openjdk-11.jdk
+ 3666  ls
+ 3667  ll
+ 3668  java -version
+ 3669  google java
+ 3670  clear
+ 3671  cd
+ 3672  lcd
+ 3673  lc
+ 3674  clear
+ 3675  java -version
+ 3676  clear
+ 3677  java -version
+ 3678  echo $JAVA-HOME
+ 3679  echo $SHELL
+ 3680  pwd
+ 3681  ls -al
+ 3682  sudo rm .zshrc.swp
+ 3683  ls -al
+ 3684  nano ~/.zshrc
+ 3685  cat ~/.zshrc
+ 3686  source ~/.zshrc
+ 3687  clear
+ 3688  echo $JAVA-HOME
+ 3689  cd ~/-HOME
+ 3690  which -HOME
+ 3691  echo $JAVA-HOME
+ 3692  cat ~/.zshrc
+ 3693  echot $PATH
+ 3694  echo $PATH
+ 3695  /usr/libexec/java_home
+ 3696  nano ~/.zshrc
+ 3697  cat ~/.zshrc
+ 3698  source ~/.zshrc
+ 3699  clear
+ 3700  echo $PATH
+ 3701  cd ~/Library
+ 3702  ls
+ 3703  cd ..
+ 3704  ls
+ 3705  cd Applications/DenodoPlatform8.0
+ 3706  cd Applications
+ 3707  ls
+ 3708  cd ..
+ 3709  ls
+ 3710  cd mansour
+ 3711  ls
+ 3712  cd Applications/DenodoPlatform8.0
+ 3713  cd
+ 3714  ls
+ 3715  cd ../..
+ 3716  ls
+ 3717  cd A
+ 3718  cd Applications/DenodoPlatform8.0
+ 3719  ls
+ 3720  cd bin'\n'
+ 3721  cd bin
+ 3722  ls
+ 3723  sudo sh denodo_platform.sh 
+ 3724  echo $JAVA_HOME
+ 3725  sh denodo_platform.sh 
+ 3726  clear
+ 3727  ls
+ 3728  sh denodo_platform.sh 
+ 3729  ls
+ 3730  ll
+ 3731  cd ../..
+ 3732  ls
+ 3733  cd DenodoPlatform8.0
+ 3734  ls
+ 3735  cd
+ 3736  clear
+ 3737  cd /Users/mansour/Documents/HPM/Denodo ressources
+ 3738  cd /Users/mansour/Documents/HPM/Denodo\ ressources/denodo-express-install-8_0
+ 3739  ls
+ 3740  ls -lrt
+ 3741  chmod +x installer_cli.sh
+ 3742  ls -lrt
+ 3743  clear
+ 3744  ./installer_cli.sh install
+ 3745  cd /Users/mansour/Documents/HPM/Formation\ Denodo/licence\ denodo
+ 3746  pwd
+ 3747  ls
+ 3748  cd /Applications/DenodoPlatform8.0
+ 3749  ls
+ 3750  ./java -jar /Users/mansour/Documents/HPM/Denodo\ ressources/denodo-express-install-8_0/denodo-update/denodo-update.jar
+ 3751  ls
+ 3752  ls -lrt
+ 3753  ./java -jar denodo-update.jar
+ 3754  ja
+ 3755  java -version
+ 3756  cd conf/
+ 3757  LS
+ 3758  ls -lrt
+ 3759  CD vdp
+ 3760  cd vdp/
+ 3761  ls
+ 3762  ls -lrt
+ 3763  cp VDBConfiguration.properties VDBConfiguration.properties.original
+ 3764  ls -lrt
+ 3765  vi VDBConfiguration.properties
+ 3766  cd ..
+ 3767  ls
+ 3768  cd ..
+ 3769  cd bin
+ 3770  ls
+ 3771  ./vqlserver_startup.sh
+ 3772  ./designstudio_startup.sh
+ 3773  ./denodo_platform.sh
+ 3774  docker exec -it mysql mysql -u mysqluser -p
+ 3775  docker-compose -f docker-compose-base.yml up
+ 3776  clear
+ 3777  docker-compose -f docker-compose-base.yml up
+ 3778  clear
+ 3779  docker-compose -f docker-compose-base.yml up
+ 3780  clear
+ 3781  docker-compose -f docker-compose-base.yml up
+ 3782  clear
+ 3783  docker-compose -f docker-compose-base.yml up
+ 3784  clear
+ 3785  docker-compose -f docker-compose-base.yml up
+ 3786  clear
+ 3787  docker-compose -f docker-compose-base.yml up
+ 3788  clear
+ 3789  docker-compose -f docker-compose-base.yml up
+ 3790  clear
+ 3791  docker-compose -f docker-compose-base.yml up
+ 3792  docker-compose -f docker-compose-base.yml up\\n\\nls
+ 3793  clea
+ 3794  clear
+ 3795  docker-compose -f docker-compose-base.yml up
+ 3796  cleae
+ 3797  clear
+ 3798  docker-compose -f docker-compose-base.yml up
+ 3799  clear
+ 3800  docker-compose -f docker-compose-base.yml up
+ 3801  clear
+ 3802  docker-compose -f docker-compose-base.yml up
+ 3803  clear
+ 3804  docker-compose -f docker-compose-base.yml up
+ 3805  clear
+ 3806  docker-compose -f docker-compose-base.yml up
+ 3807  docker login -u MansourBarro
+ 3808  clear
+ 3809  docker-compose -f docker-compose-base.yml up
+ 3810  docker login -u MansourBarro
+ 3811  clear
+ 3812  docker login -u mansourbarro
+ 3813  clear
+ 3814  docker-compose -f docker-compose-base.yml up
+ 3815  clear
+ 3816  docker-compose -f docker-compose-base.yml up
+ 3817  clear
+ 3818  docker-compose -f docker-compose-base.yml up
+ 3819  clear
+ 3820  docker-compose -f docker-compose-base.yml up
+ 3821  clear
+ 3822  docker-compose -f docker-compose-base.yml up
+ 3823  clear
+ 3824  docker-compose -f docker-compose-base.yml up
+ 3825  clear
+ 3826  docker-compose -f docker-compose-base.yml up
+ 3827  clear
+ 3828  docker-compose -f docker-compose-base.yml up
+ 3829  clear
+ 3830  docker-compose -f docker-compose-base.yml up
+ 3831  clear
+ 3832  docker-compose -f docker-compose-base.yml up
+ 3833  docker-compose
+ 3834  docker-compose version
+ 3835  docker-compose -f docker-compose-base.yml up
+ 3836  clear
+ 3837  docker-compose -f docker-compose-base.yml up
+ 3838  clear
+ 3839  docker-compose -f docker-compose-base.yml up
+ 3840  clear
+ 3841  docker-compose -f docker-compose-base.yml up
+ 3842  clear
+ 3843  docker-compose -f docker-compose-base.yml up
+ 3844  clear
+ 3845  docker-compose -f docker-compose-base.yml up
+ 3846  clear
+ 3847  docker-compose -f docker-compose-base.yml up
+ 3848  clear
+ 3849  docker-compose -f docker-compose-base.yml up
+ 3850  docker compose
+ 3851  docker compose -version
+ 3852  docker-compose -version
+ 3853  docker-compose version
+ 3854  clear
+ 3855  docker-compose -f docker-compose-base.yml up
+ 3856  docker pull --platform=linux/amd64 mysql:8.0.27
+ 3857  clear
+ 3858  docker-compose -f docker-compose-base.yml up
+ 3859  clear
+ 3860  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3861  clear
+ 3862  astro dev start
+ 3863  clear
+ 3864  docker ps
+ 3865  docker ps -a
+ 3866  docker rm 38
+ 3867  docker ps -a
+ 3868  docker rm 11ea512150f0
+ 3869  docker rm 50
+ 3870  docker ps -a
+ 3871  clear
+ 3872  astro dev start
+ 3873  astro dev restart
+ 3874  docker scan
+ 3875  docker scan -f
+ 3876  clear
+ 3877  astro dev start
+ 3878  airflow
+ 3879  clear
+ 3880  conda env list
+ 3881  astro dev restart
+ 3882  clear
+ 3883  astro dev restart
+ 3884  pg_ctl status\n
+ 3885  pg_ctl --help\n
+ 3886  pg_ctl stop\n
+ 3887  cat ~/.zshrc
+ 3888  cd ~/Library/PostgreSQL/
+ 3889  cd ~/Library/
+ 3890  ls
+ 3891  cd LanguageModeling
+ 3892  ls
+ 3893  cd ..
+ 3894  clear
+ 3895  which postgres
+ 3896  export PATH=/Library/PostgreSQL/16/bin:$PATH >> ~/.zshrc
+ 3897  cat ~/.zshrc
+ 3898  clear
+ 3899  vi ~/.zshrc
+ 3900  cat  ~/.zshrc
+ 3901  source ~/.zshrc
+ 3902  clear
+ 3903  cat  ~/.zshrc
+ 3904  clear
+ 3905  pg_ctl status\n
+ 3906  pg_ctl --help\n
+ 3907  cd
+ 3908  clear
+ 3909  lsof -i :5432
+ 3910  clear
+ 3911  astro dev start
+ 3912  clear
+ 3913  kill 949
+ 3914  lsof -i :5432
+ 3915  kill 27416
+ 3916  lsof -i :5432
+ 3917  kill 27454
+ 3918  astro dev start
+ 3919  kill -9 pid
+ 3920  lsof -i :5432
+ 3921  kill -2 pid
+ 3922  kill -27519 pid
+ 3923  kill -27519
+ 3924  kill -help
+ 3925  kill --help
+ 3926  kill
+ 3927  lsof -i :5432
+ 3928  kill 27519
+ 3929  clear
+ 3930  vi ~/.zshrc
+ 3931  source ~/.zshrc
+ 3932  cat  ~/.zshrc
+ 3933  clear
+ 3934  sh denodo_platform.sh 
+ 3935  clear
+ 3936  docker run --hostname=quickstart.cloudera --privileged=true -t -i -p 7180:7180 -p 8888:8888 docker.io/cloudera/quickstart:latest /usr/bin/docker-quickstart\n
+ 3937  astro dev start
+ 3938  pg_ctl stop
+ 3939  pg_ctl list
+ 3940  pg_ctl --help\n
+ 3941  postgres=# \l
+ 3942  postgres=#
+ 3943  postgres=#\l
+ 3944  clear
+ 3945  astro dev restart
+ 3946  astro dev start
+ 3947  clear
+ 3948  astro dev restart
+ 3949  clear
+ 3950  astro dev bash
+ 3951  astro dev stop
+ 3952  clear
+ 3953  cd Documents
+ 3954  ls -lrt
+ 3955  cd DEP
+ 3956  ls
+ 3957  git -C ~ clone https://github.com/GoogleCloudPlatform/training-data-analyst\n
+ 3958  ls
+ 3959  ll
+ 3960  ls -lrt
+ 3961  cd real-time-analytics-book
+ 3962  ls
+ 3963  ls -lrt
+ 3964  clear
+ 3965  cd
+ 3966  clear
+ 3967  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3968  echo /opt/homebrew/bin/zsh
+ 3969  cd /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql
+ 3970  ls
+ 3971  code .
+ 3972  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3973  docker run hello-world
+ 3974  docker run -it ubuntu bash
+ 3975  docker run -it python:3.9
+ 3976  docker run -it --entrypoint=bash python:3.9
+ 3977  ls
+ 3978  docker build -t test:pandas .
+ 3979  docker run -it test:pandas
+ 3980  echo /opt/homebrew/bin/zsh
+ 3981  docker buil -t test:pandas .
+ 3982  docker build -t test:pandas .
+ 3983  docker run -it test:pandas
+ 3984  docker build -t test:pandas .
+ 3985  docker run -it test:pandas
+ 3986  docker run -it test:pandas 2024-01-18
+ 3987  docker run -it test:pandas 2024-01-18 123 viva algerie 
+ 3988  ls
+ 3989  cd ..
+ 3990  ls
+ 3991  cd ..
+ 3992  ls -lrt
+ 3993  cd DSA
+ 3994  ls
+ 3995  code.
+ 3996  code .
+ 3997  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 3998  echo /opt/homebrew/bin/zsh
+ 3999  cd /Applications/DenodoPlatform8.0/bin
+ 4000  ls
+ 4001  ./denodo_platform.sh
+ 4002  ./vqlserver_startup.sh
+ 4003  ls -lht
+ 4004  ./vqlserver_shutdown.sh
+ 4005  cd /Users/mansour/Documents/HPM/Formation Denodo/DEN80EDU12D_LOCAL/product
+ 4006  cd /Users/mansour/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/product
+ 4007  ls
+ 4008  ./start.sh
+ 4009  chmod +x start.sh
+ 4010  ./start.sh
+ 4011  cd /Users/mansour/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/product
+ 4012  cd ~/Library/
+ 4013  pwd
+ 4014  cd ..
+ 4015  ls
+ 4016  cd ..
+ 4017  ls
+ 4018  cd ..
+ 4019  ls]
+ 4020  ls
+ 4021  cd Applications/DenodoPlatform8.0
+ 4022  cd /Users/mansour/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/product
+ 4023  ls
+ 4024  cd ..
+ 4025  cd sales
+ 4026  ls
+ 4027  chmod +x start.sh
+ 4028  ls
+ 4029  ./start.sh
+ 4030  cd /Users/mansour/Documents/HPM/Formation\ Denodo/DEN80EDU12D_LOCAL/product
+ 4031  ls
+ 4032  cd ../sales
+ 4033  ls
+ 4034  sudo ./start.sh
+ 4035  echo $JAVA_HOME
+ 4036  source ~/.zshrc
+ 4037  sudo ./start.sh
+ 4038  cd bin
+ 4039  ./denodo_platform.sh
+ 4040  echo /opt/homebrew/bin/zsh
+ 4041  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4042  ./denodo_platform.sh
+ 4043  clear
+ 4044  cd
+ 4045  cd /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql
+ 4046  ls
+ 4047  echo /opt/homebrew/bin/zsh
+ 4048  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4049  echo /opt/homebrew/bin/zsh
+ 4050  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4051  pwd
+ 4052  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data: postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4053  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4054  cd
+ 4055  cd /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql
+ 4056  ls
+ 4057  clear
+ 4058  pgcli
+ 4059  pip install pgcli
+ 4060  pgcli -h localhost -p -5432 -u root -d ny_taxi
+ 4061  clear
+ 4062  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4063  clear
+ 4064  docker run
+ 4065  docker --help
+ 4066  clear
+ 4067  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4068  cd /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql
+ 4069  ls
+ 4070  docker run -it \\n    -e PGADMIN_DEFAULT_EMAIL="admin@admin.com" \\n    -e PGADMIN_DEFAULT_PASSWORD="root" \\n    -p 8080:80 \\n    dpage/pgadmin4
+ 4071  clear
+ 4072  history
+ 4073  clear
+ 4074  docker network create pg-network
+ 4075  docker ps
+ 4076  docker ps -a
+ 4077  clear
+ 4078  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data: postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    --network=pg-network \\n    --name pg-database \ \n    postgres:latest
+ 4079  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data:postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    --network=pg-network \\n    --name pg-database \ \n    postgres:latest
+ 4080  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data:postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4081  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data:postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    --network=pg-network \\n    --name pg-database \ postgres:latest
+ 4082  docker run --help
+ 4083  clear
+ 4084  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data:postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    --network=pg-network \\n    --name pg-database \ \n    postgres:latest
+ 4085  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres_data:postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4086  ls
+ 4087  ls -lrt
+ 4088  clear
+ 4089  ls -lrt
+ 4090  docker ps
+ 4091  clear
+ 4092  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v $(pwd)/ny_taxi_postgres_data:postgres-db-volume:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4093  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v $(pwd)/ny_taxi_postgres_data:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4094  cd /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql
+ 4095  pgcli -h localhost -p -5432 -u root -d ny_taxi
+ 4096  pgcli -h localhost -p 5432 -u root -d ny_taxi
+ 4097  pgcli -h localhost -p 5432  -d ny_taxi
+ 4098  pgcli -h localhost -p 5432 -u root -d ny_taxi
+ 4099  docker ps
+ 4100  clear
+ 4101  docker ps
+ 4102  clear
+ 4103  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRE_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4104  pgcli -h localhost -p 5432 -u root -d ny_taxi
+ 4105  pgcli -help
+ 4106  pgcli --help
+ 4107  clear
+ 4108  pgcli -h localhost -p 5432 -u root -d ny_taxi
+ 4109  pgcli --help
+ 4110  pgcli -h localhost -p 5432 -U root ny_taxi
+ 4111  pgcli -h localhost -p 5432 -U root-W 'root' ny_taxi
+ 4112  pgcli -h localhost -p 5432 -U root -W 'root' ny_taxi
+ 4113  pgcli -h localhost -p 5432 -W 'root' ny_taxi
+ 4114  pgcli -h localhost -p 5432 -u root -w 'root' ny_taxi
+ 4115  docker ps
+ 4116  clear
+ 4117  docker run -it \\n    -e POSTGRES_USER="root" \\n    -e POSTGRES_PASSWORD="root" \\n    -e POSTGRES_DB="ny_taxi" \\n    -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres:/var/lib/postgresql/data \\n    -p  5432:5432 \\n    postgres:latest
+ 4118  clear
+ 4119  pgcli -h localhost -p 5432 -u root -d ny_taxi
+ 4120  psql -h localhost -d ny_taxi -U root
+ 4121  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 4122  docker ps
+ 4123  brew services stop postgresql
+ 4124  clear
+ 4125  psql -h localhost -d ny_taxi -U root
+ 4126  clear
+ 4127  docker ps
+ 4128  clear
+ 4129  docker run -it \\n  -e POSTGRES_USER="root" \\n  -e POSTGRES_PASSWORD="root" \\n  -e POSTGRES_DB="ny_taxi" \\n  -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres:/var/lib/postgresql/data \\n  -p 5432:5432 \\n postgres:latest
+ 4130  psql -h localhost -d ny_taxi -U root
+ 4131  history
+ 4132  clear
+ 4133  psql -h localhost -d ny_taxi -U postgres -c "CREATE ROLE root WITH LOGIN PASSWORD 'root'"
+ 4134  pgcli -h localhost -p 5432 -U postgres -d ny_taxi
+ 4135  su - postgres
+ 4136  clear
+ 4137  su root
+ 4138  sudo -su
+ 4139  sudo su
+ 4140  clear
+ 4141  su - postgres
+ 4142  CLEAR
+ 4143  clear
+ 4144  docker ps
+ 4145  docker exec -it musing_buck psql -d ny_taxi -U postgres
+ 4146  docker exec -it musing_buck psql -d ny_taxi -U root
+ 4147  pgcli -h localhost -p 5432 -U root -d ny_taxi
+ 4148  pgcli -h localhost -p 5432 -U postgres -d ny_taxi
+ 4149  psql -h localhost -d ny_taxi -U postgres -c "CREATE ROLE root WITH LOGIN PASSWORD 'root'"
+ 4150  docker exec -it musing_buck psql -d ny_taxi -U root
+ 4151  docker login
+ 4152  clear
+ 4153  docker ps
+ 4154  clear
+ 4155  ls
+ 4156  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4157  CLEAR
+ 4158  clear
+ 4159  pip list
+ 4160  pip install --upgrade
+ 4161  pip install --upgrade pip
+ 4162  clea
+ 4163  clear
+ 4164  docker run -it \\n  -e POSTGRES_USER="root" \\n  -e POSTGRES_PASSWORD="root" \\n  -e POSTGRES_DB="ny_taxi" \\n  -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres:/var/lib/postgresql/data \\n  -p 5432:5432 \\n postgres:latest
+ 4165  pgcli -h localhost -p 5432 -U root -d ny_taxi
+ 4166  docker exec -it musing_buck psql -d ny_taxi -U root
+ 4167  docker ps
+ 4168  docker exec -it serene_wozniak psql -d ny_taxi -U root
+ 4169  clear
+ 4170  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4171  docker run -it \\n  -e POSTGRES_USER="root" \\n  -e POSTGRES_PASSWORD="root" \\n  -e POSTGRES_DB="ny_taxi" \\n  -v /Users/mansour/Documents/DE_ZoomCamp/week_1/docker_sql/ny_taxi_postgres:/var/lib/postgresql/data \\n  -p 5432:5432 \\n postgres:13
+ 4172  pgcli -h localhost -p 5432 -u root -d ny_taxi
+ 4173  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4174  cd /Applications/DenodoPlatform8.0/
+ 4175  ls
+ 4176  cd bin
+ 4177  ls
+ 4178  sh denodo_platform.sh 
+ 4179  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 4180  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4181  scala
+ 4182  sbt
+ 4183  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 4184  pip install lightgbm
+ 4185  pip --version
+ 4186  pip install --upgrade pip 
+ 4187  clear
+ 4188  sbt
+ 4189  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4190  scala
+ 4191  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4192  /Volumes/AppleApp/AppleApp ; exit;
+ 4193  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4194  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 4195  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4196  /Users/mansour/anaconda3/bin/jupyter_mac.command ; exit;
+ 4197  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4198  cd /Users/mansour/Documents/PhD_opportunities/ML_interview_XAI
+ 4199  ls
+ 4200  git init
+ 4201  git add .
+ 4202  git commit -m "Uploading Notebook"
+ 4203  lls
+ 4204  ls
+ 4205  git add .
+ 4206  git commit -m "Uploading predictions"
+ 4207  git branch -M main
+ 4208  git remote add origin https://github.com/mm230/ML_interview_XAI_Paderborn_University.git
+ 4209  git push -u origin main
+ 4210  git config user.email "mansourbarro.sow652@gmail.com"
+ 4211  git config user.name "mm230"
+ 4212  git push -u origin main
+ 4213  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4214  cd ~/Users/mansour/Documents/PhD_opportunities/ML_interview_XAI
+ 4215  cd /Users/mansour/Documents/PhD_opportunities/ML_interview_XAI
+ 4216  ls
+ 4217  git status
+ 4218  git log
+ 4219  clear
+ 4220  git pull
+ 4221  ls
+ 4222  git status
+ 4223  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4224  cd /Users/mansour/Documents/DEP/e2e_data_pipeline
+ 4225  ls
+ 4226  ll
+ 4227  clear
+ 4228  git clone https://github.com/HamzaG737/data-engineering-project.git
+ 4229  ls
+ 4230  cd data-engineering-project
+ 4231  lcs
+ 4232  l
+ 4233  code .
+ 4234  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4235  pip install -r  requirements.txt
+ 4236  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4237  clear
+ 4238  pip list
+ 4239  clear
+ 4240  git status
+ 4241  clear
+ 4242  git branch
+ 4243  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4244  ode -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4245  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4246  python linked_list.py
+ 4247  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4248  cd /Users/mansour/Documents/HPM/Cloudera Workshops/CDE_Workshop_Resources
+ 4249  cd ~/Users/mansour/Documents/HPM/Cloudera\ /Workshops/CDE_Workshop_Resources
+ 4250  cd ~/Users/mansour/Documents/HPM/Cloudera\ Workshops/CDE_Workshop_Resources
+ 4251  cd /Users/mansour/Documents/HPM/logs
+ 4252  ls
+ 4253  cd ../Cloudera\ Workshops
+ 4254  ls
+ 4255  cd CDE_Workshop_Resources
+ 4256  ls
+ 4257  code .
+ 4258  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4259  scala
+ 4260  sbt
+ 4261  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4262  cd ..
+ 4263  ls
+ 4264  cd CDE_Workshop_Resources
+ 4265  ls
+ 4266  code .
+ 4267  scala
+ 4268  sbt
+ 4269  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4270  clear
+ 4271  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4272  ls
+ 4273  cd Documents
+ 4274  l
+ 4275  ls -lrt
+ 4276  cd DEP
+ 4277  ls
+ 4278  cd real-time-analytics-book/
+ 4279  ls
+ 4280  code .
+ 4281  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4282  clear
+ 4283  pip list
+ 4284  clear
+ 4285  pip env
+ 4286  pip list env
+ 4287  pip list venv
+ 4288  clear
+ 4289  conda env list
+ 4290  python -m venv venv
+ 4291  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt
+ 4292  source venv/bin/activate
+ 4293  pip install -r  scripts/requirements.txt
+ 4294  pip list
+ 4295  docker-compose \\n  -f docker-compose-base.yml \\n  -f docker-compose-pinot.yml \\n  -f docker-compose-dashboard-enriched.yml \\n  -f docker-compose-dashboard.yml up\n
+ 4296  clear
+ 4297  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4298  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt
+ 4299  clear
+ 4300  conda list
+ 4301  conda list env
+ 4302  cd ../../../
+ 4303  ls
+ 4304  code .
+ 4305  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4306  s
+ 4307  ls
+ 4308  cd Documents
+ 4309  ls
+ 4310  code .
+ 4311  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4312  cd LAM
+ 4313  LS
+ 4314  ls
+ 4315  mkdir metabase/
+ 4316  ls
+ 4317  cd metabase
+ 4318  ls
+ 4319  ll
+ 4320  code .
+ 4321  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4322  clear
+ 4323  printenv > "/var/folders/xd/tjt2tz2n3493m75x6158r3rc0000gn/T/tmp-376072AXLOkqBEcch.txt"
+ 4324  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt
+ 4325  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4326  printenv > "/var/folders/xd/tjt2tz2n3493m75x6158r3rc0000gn/T/tmp-5496HJoAnd32fK2Y.txt"
+ 4327  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt
+ 4328  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4329  python\n
+ 4330  python --version
+ 4331  conda create --name venv
+ 4332  conda activate venv
+ 4333  pip list
+ 4334  conda install -c conda-forge fastapi uvicorn transformers pytorch cudatoolkit=11.2\n
+ 4335  conda install -c conda-forge fastapi uvicorn transformers pytorch cpuonly\n
+ 4336  conda install -c conda-forge fastapi uvicorn transformers pytorch \n
+ 4337  pip list
+ 4338  python --version
+ 4339  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4340  conda activate venv
+ 4341  pip list
+ 4342  python --version
+ 4343  clear
+ 4344  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4345  conda activate venv
+ 4346  clear
+ 4347  ls
+ 4348  python3 main.py
+ 4349  python main.py
+ 4350  clear
+ 4351  uvicorn main.app --host 0.0.0.0 --port 80
+ 4352  clear
+ 4353  python main.py
+ 4354  clear
+ 4355  uvicorn main.app 
+ 4356  uvicorn main:app 
+ 4357  uvicorn main:app --host 0.0.0.0 --port 80
+ 4358  clear
+ 4359  uvicorn main:app --host 0.0.0.0 --port 80
+ 4360  python main.py
+ 4361  clear
+ 4362  python main.py
+ 4363  conda update --all\n
+ 4364  clear
+ 4365  python main.py
+ 4366  pip install optimum 
+ 4367  clear
+ 4368  python main.py
+ 4369  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4370  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/zsh/envVars.txt
+ 4371  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4372  clear
+ 4373  ls
+ 4374  cd metabase
+ 4375  ls 
+ 4376  cd Documents/LAM/metabase
+ 4377  ls
+ 4378  cat table_CA.xlsx
+ 4379  clear
+ 4380  tr .xlsx .txt > table_CA.xlsx 
+ 4381  clear
+ 4382  tr " " "," Liste_BU_DAS
+ 4383  man tr -fr
+ 4384  ls
+ 4385  tr " " "," Liste_BU_DAS.txt Liste_BU_DAS.txt
+ 4386  tr ' ' ',' Liste_BU_DAS.txt Liste_BU_DAS.txt
+ 4387  tr ' ' ',' Liste_BU_DAS.xlsx Liste_BU_DAS.txt
+ 4388  tr ' ' ',' <Liste_BU_DAS.xlsx> Liste_BU_DAS.txt
+ 4389  tr ' ' ',' <Liste_BU_DAS.xlsx> Liste_BU_DAS.csv
+ 4390  export LC_CTYPE=C
+ 4391  tr ' ' ',' <Liste_BU_DAS.xlsx> Liste_BU_DAS.csv
+ 4392  ls -lrt
+ 4393  cat Liste_BU_DAS.csv
+ 4394  clear
+ 4395  cat Liste_BU_DAS.csv
+ 4396  clear
+ 4397  cd ~/bin
+ 4398  clear
+ 4399  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4400  ls 
+ 4401  cd Desktop
+ 4402  ls
+ 4403  cd ML\ competitions
+ 4404  ls
+ 4405  cd Melio_MLOps_MT
+ 4406  ls
+ 4407  clear
+ 4408  git clone https://github.com/highwind-ai/examples.git
+ 4409  ls
+ 4410  cd examples
+ 4411  ls
+ 4412  git branch
+ 4413  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4414  ls -lrt
+ 4415  conda activate venv
+ 4416  clear
+ 4417  pip install kserve
+ 4418  clear
+ 4419  pip install kserve
+ 4420  python -m ensurepip --upgrade\npython -m pip install --upgrade setuptools\npython -m pip install <kserve>
+ 4421  python -m ensurepip --upgrade\\npython -m pip install --upgrade setuptools\\npython -m pip install <kserve>
+ 4422  python -m ensurepip --upgrade \\npython -m pip install --upgrade setuptools \\npython -m pip install <kserve>
+ 4423  python -m ensurepip --upgrade \\npython -m pip install --upgrade setuptools \\npython -m pip install kserve
+ 4424  python -m ensurepip --upgrade
+ 4425  python -m pip install --upgrade setuptools
+ 4426  python -m pip install kserve
+ 4427  pip upgrade
+ 4428  pip list
+ 4429  clear
+ 4430  python test_main.py
+ 4431  clear
+ 4432  pip install kserve
+ 4433  clear
+ 4434  pip install kserve
+ 4435  python -m ensurepip --upgrade\n
+ 4436  pip install --upgrade setuptools\n
+ 4437  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.8.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.8.0/python_files/deactivate/zsh/envVars.txt
+ 4438  pip kserve
+ 4439  pip install kserve
+ 4440  conda create -n melio python=3.11
+ 4441  conda activate melio
+ 4442  pip list
+ 4443  pip install kserve
+ 4444  pip list
+ 4445  clear
+ 4446  ls
+ 4447  python test_main.py
+ 4448  pip install transformers datasets evaluate sacrebleu
+ 4449  pip list
+ 4450  clear
+ 4451  python test_main.py
+ 4452  pip install torch
+ 4453  pip list
+ 4454  clear
+ 4455  python test_main.py
+ 4456  clear
+ 4457  python test_main.py
+ 4458  clear
+ 4459  python test_main.py
+ 4460  pip install sentencepiece
+ 4461  clear
+ 4462  python test_main.py
+ 4463  clear
+ 4464  python test_main.py
+ 4465  clear
+ 4466  python test_main.py
+ 4467  clear
+ 4468  python test_main.py
+ 4469  clear
+ 4470  python test_main.py
+ 4471  clear
+ 4472  python test_main.py --model_name facebook/m2m100_418M --custom_protocol v2\n
+ 4473  docker -version
+ 4474  docker --version
+ 4475  clear
+ 4476  docker ps
+ 4477  docker
+ 4478  clear
+ 4479  python -version
+ 4480  python --version
+ 4481  clear
+ 4482  conda deactivate
+ 4483  spark-shell
+ 4484  conda list
+ 4485  conda list env
+ 4486  conda list venv
+ 4487  conda list base
+ 4488  conda list myenv
+ 4489  conda list melio
+ 4490  conda activate melio
+ 4491  python main_failed.py
+ 4492  clear
+ 4493  python main_failed.py
+ 4494  uvicorn main:app --host 0.0.0.0 --port 80
+ 4495  uvicorn main_failed:app --host 0.0.0.0 --port 80
+ 4496  clear
+ 4497  uvicorn main_failed:app --host 0.0.0.0 --port 80
+ 4498  uvicorn main:app --host 0.0.0.0 --port 80
+ 4499  uvicorn main_fastapi:app --host 0.0.0.0 --port 80
+ 4500  docker build -t melio .
+ 4501  docker images
+ 4502  docker run -p 8000:80 melio
+ 4503  docker build -t melio .
+ 4504  docker images
+ 4505  docker run -p 8000:80 melio
+ 4506  pip pip freeze requirements.txt
+ 4507  pip freeze requirements.txt
+ 4508  pip freeze > requirements.txt
+ 4509  ls
+ 4510  pip freeze > requirements.txt
+ 4511  docker build -t melio .
+ 4512  pip install gcc python3-dev
+ 4513  pip install gcc 
+ 4514  pip install psutil
+ 4515  sudo apt-get install gcc python3-dev
+ 4516  sudo apt install gcc python3-dev
+ 4517  clear
+ 4518  docker build -t melio .
+ 4519  docker build -t --platform linux/amd64 melio .
+ 4520  docker build --platform linux/amd64 -t melio .
+ 4521  clear
+ 4522  docker build --platform linux/amd64 -t melio .
+ 4523  docker scout quickview melio
+ 4524  docker images
+ 4525  docker ps
+ 4526  docker ps 61
+ 4527  docker ps -61
+ 4528  docker ps --610
+ 4529  docker containers
+ 4530  docker ps -a
+ 4531  clear
+ 4532  uvicorn main_fastapi:app --host 0.0.0.0 --port 80
+ 4533  docker images
+ 4534  clear
+ 4535  docker run -p 8000:80 melio
+ 4536  clear
+ 4537  docker push mansourbarro/melio-dyu-fr:melio
+ 4538  docker image tag melio:mansourbarro/melio-dyu-fr
+ 4539  docker image -t melio:mansourbarro/melio-dyu-fr
+ 4540  docker image tag melio:mansourbarro/melio-dyu-fr
+ 4541  docker images
+ 4542  docker image tag melio:latest mansourbarro/melio-dyu-fr:latest
+ 4543  docker image
+ 4544  docker images
+ 4545  docker push mansourbarro/melio-dyu-fr
+ 4546  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4547  docker push mansourbarro/melio-dyu-fr
+ 4548  docker login
+ 4549  clear
+ 4550  docker login
+ 4551  clear
+ 4552  docker push mansourbarro/melio-dyu-fr
+ 4553  docker images
+ 4554  docker run -p 8000:80 melio
+ 4555  clear
+ 4556  python main_kserve.py
+ 4557  ls
+ 4558  conda activate melio
+ 4559  python main_kserve.py
+ 4560  clear
+ 4561  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoiWlNnVXl2ZFVKT2VtejAvbjhDZS9ZRFZ3VVN1Y3VtOTdwcjJ1RXgyM00wcGtFNGE2WUdDMUtUVmRQNTJ0eWxQU3RmM2JNVDhPRlhzT1NXQmZ2VmplQXhvT0EvYk1xZHdsV0ZNYVJTQjg2QlpOL1c3a2hncVpySWZHWXJNTW10Ukhtc3lPNk1FenRRRVl6OXhlTFlQRmZIN3c5QUpVRTFrWVQ0Z3hFRUFFU2QvM09GeU9LRjd4WWl5eUdpb2VFcXd6UGhFQm9tOVJXcXBaRkxaRmMzMXNCUkRJdFMrb3BBYTR4ZFpRNE9nT1FaZCtQMEJDMTVEdnU0V29tOEliQTc2cGpjUUgzSXlEckczbE10bFJGbTZVU0RxaENKYjN6R2pHZjMrMWp3VUppSW0rYzdrTnZYNWwrT3pQczdabmpkYlkvd01SMlFRbGlQR3ZXQlJYbmNDVmwyMlZyQlFjNjBvanYzUkxIVVd3clBTZUcrWDdnbTR0TG9kMTdKYjFXcjBwZFd0QTlMdkE2endWbE1zbnlxMExUcEk4eG11S2F5czcxNVRTTStPdHpwdkQvV0UrYnNkSVRWRmJyNjRWUVFoVVJVWmtyeUpjT0hpSEU1bmFMd3BKMFlOdXcvOHREU0xhRXl6SGpadUhtT3hMM1l0UHBYWEdkdWg3a1R6VTlCWlZEcXBHeTRCaTRoU2dPVEt0MEV4Qkg2U2RHM016N3hlYWk4MTdEOTQxc05Yb0dvSXIvQUVXN0dzSE9LVE1iR3oyckt5cDM1bDlQb2NTZG1EMzJhTExOdEV1OW5Uc2dxUTlPbVBkWGRVQWdxWTRVS2Z2VE0yS3laYUozVDhEUmRFWnd2NTljNy9ieHFXcU1zSk9WZTB5bGcram8xRWVta2V4N0xnMmd1dlNYVjc2WTZMZmZwaHVmUFJObVBId3l5QUhnSGFRSVU4bjhLSGtjU09aYXpZV1B5VFppdVcxWVRNcTkyTlNpR2hwdndVWGt0VFkrMmN6TXJ2N3JlTDhGODgwQUdiZHUrU1IrTDlMbXp3bDQ0YVJObklJOC9UYnFXdlhvZkpDdmtyV1dNbS85K0Zjd0MvQkVxd1hiNTFBUXk3MzNGMTJGU2FSaEdwY3J2bm9ibnk4SnlreWJCYmdpSkdGTDlZUGhVRlY0VHNLSTUzdTRqM3RNQXRjeW9JMGljMkVvbEVHMHo4VGFlc2FlWEszRjcrYUJWVVJCQjRJZXVtcmNhYmdtN05VbWNtbDhYRjExU2w0Mi9ETWJBMVRCaDRwMlhmajdxZUVrMUxMM2pSdWp5WE1jYXVYY0NldW9tbHV5dVl6ZUhOTk0rWTNZRmVrZC81dlhrVGRCV1dCV1Q1aEpmbmd0aW05cmxjUFNWQ2YrSnBLSUowdExwSXozUGF5QzZVaU5oQ2V6amJncXNtRy95elE2aDdaOHBneEVXUmFReTJZMTQvek5NdWk2eGhMWjJwendoRTdmWVFmNUh3b0F6NXQ5aTZBelJDaW9sWjM0UjVEaTN0QmlRcW0xcGUxZnoyN2lqMjRBd0ozZmU4MU43T2ZkODdGYXBHZkFTclI1anJ0bnRYZ2RKR2lsT1pVNStZemgxaVRDQzY4SDJmTFViby9EYUxwUDNxNGM2Z09RdzAvbXVRQjU5eDlrbitwWURVemExOWZQSmx6TStabXNwTkltUUltdmpadlRSUFVUSHF0ZHpOSnEzNFBjVTY0M2lUN3JEWjlUN09wbldrbm5lZ1BkN2hzeTVRMHhIRGI0aXZ1VnM3dWZRdGVHeWV6V0RWYkNsSjd2M1U1dHpKMDUzRFczWmNCT1Z1bHlQT3NWQXFqWWFxN0E1UEpnODZKcXJnWmxhWFdXckVnYUwyK2taQUk4QzhGVjhaQUh4WDQyMDZ5YUZ1MVovM2RadTRNdlJpOXI2bTUrSzNBYTh1aHNBcnRNd3pDWlliSlJ4ZzNkTTU1N3JZcGNqNGIwNXVEUmtYV3BTR3o4dEUwKzZhOWlEOHZpTHVKcE1NSFJ4STZzWWlUTGNVZkIyTVh1aW5idlJweEUyanZpTWdDUFVWcXJZYzlFbFUyNWFZbFpTa2hMZ21oSlRZV0NFdVdQS2VTUXd6Y3J3VGsrdVdmZVR3RVdSekJsMXJKSnRYT0s4ZGxYNWRSU3NMU0Y5TStBOG1PK2tDQ0RqcDEvdWN3c2NvN0RrV0ZXeEpubGtDekQrdkYzT3VvRVpRdmpSSFRVVjV4VGxtVnZ6Sjhub25yVkRUSGk3ZEVGemFOT3dMQ0JkMW52dz09IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURHL1JNTWxGUzEvVFdBSytzUUlCRUlBN3VTRkcyVnFTc2JXeTFRbEw5bFdpK0hEVCsrNUVaMkg4S2tnMFZTcTdBeS9salBTWW0yU2paSjJyOXN3UmtqeFNuRmNYRExScXBsRWM2bkk9IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE4Mjc1NjYwfQ==
+ 4562  docker images
+ 4563  docker tag melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/9e1c6b8b-6740-4959-aa36-13d89505e618:latest
+ 4564  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/9e1c6b8b-6740-4959-aa36-13d89505e618:latest
+ 4565  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.8.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.8.0/python_files/deactivate/zsh/envVars.txt
+ 4566  clear
+ 4567  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoiWlNnVXl2ZFVKT2VtejAvbjhDZS9ZRFZ3VVN1Y3VtOTdwcjJ1RXgyM00wcGtFNGE2WUdDMUtUVmRQNTJ0eWxQU3RmM2JNVDhPRlhzT1NXQmZ2VmplQXhvT0EvYk1xZHdsV0ZNYVJTQjg2QlpOL1c3a2hncVpySWZHWXJNTW10Ukhtc3lPNk1FenRRRVl6OXhlTFlQRmZIN3c5QUpVRTFrWVQ0Z3hFRUFFU2QvM09GeU9LRjd4WWl5eUdpb2VFcXd6UGhFQm9tOVJXcXBaRkxaRmMzMXNCUkRJdFMrb3BBYTR4ZFpRNE9nT1FaZCtQMEJDMTVEdnU0V29tOEliQTc2cGpjUUgzSXlEckczbE10bFJGbTZVU0RxaENKYjN6R2pHZjMrMWp3VUppSW0rYzdrTnZYNWwrT3pQczdabmpkYlkvd01SMlFRbGlQR3ZXQlJYbmNDVmwyMlZyQlFjNjBvanYzUkxIVVd3clBTZUcrWDdnbTR0TG9kMTdKYjFXcjBwZFd0QTlMdkE2endWbE1zbnlxMExUcEk4eG11S2F5czcxNVRTTStPdHpwdkQvV0UrYnNkSVRWRmJyNjRWUVFoVVJVWmtyeUpjT0hpSEU1bmFMd3BKMFlOdXcvOHREU0xhRXl6SGpadUhtT3hMM1l0UHBYWEdkdWg3a1R6VTlCWlZEcXBHeTRCaTRoU2dPVEt0MEV4Qkg2U2RHM016N3hlYWk4MTdEOTQxc05Yb0dvSXIvQUVXN0dzSE9LVE1iR3oyckt5cDM1bDlQb2NTZG1EMzJhTExOdEV1OW5Uc2dxUTlPbVBkWGRVQWdxWTRVS2Z2VE0yS3laYUozVDhEUmRFWnd2NTljNy9ieHFXcU1zSk9WZTB5bGcram8xRWVta2V4N0xnMmd1dlNYVjc2WTZMZmZwaHVmUFJObVBId3l5QUhnSGFRSVU4bjhLSGtjU09aYXpZV1B5VFppdVcxWVRNcTkyTlNpR2hwdndVWGt0VFkrMmN6TXJ2N3JlTDhGODgwQUdiZHUrU1IrTDlMbXp3bDQ0YVJObklJOC9UYnFXdlhvZkpDdmtyV1dNbS85K0Zjd0MvQkVxd1hiNTFBUXk3MzNGMTJGU2FSaEdwY3J2bm9ibnk4SnlreWJCYmdpSkdGTDlZUGhVRlY0VHNLSTUzdTRqM3RNQXRjeW9JMGljMkVvbEVHMHo4VGFlc2FlWEszRjcrYUJWVVJCQjRJZXVtcmNhYmdtN05VbWNtbDhYRjExU2w0Mi9ETWJBMVRCaDRwMlhmajdxZUVrMUxMM2pSdWp5WE1jYXVYY0NldW9tbHV5dVl6ZUhOTk0rWTNZRmVrZC81dlhrVGRCV1dCV1Q1aEpmbmd0aW05cmxjUFNWQ2YrSnBLSUowdExwSXozUGF5QzZVaU5oQ2V6amJncXNtRy95elE2aDdaOHBneEVXUmFReTJZMTQvek5NdWk2eGhMWjJwendoRTdmWVFmNUh3b0F6NXQ5aTZBelJDaW9sWjM0UjVEaTN0QmlRcW0xcGUxZnoyN2lqMjRBd0ozZmU4MU43T2ZkODdGYXBHZkFTclI1anJ0bnRYZ2RKR2lsT1pVNStZemgxaVRDQzY4SDJmTFViby9EYUxwUDNxNGM2Z09RdzAvbXVRQjU5eDlrbitwWURVemExOWZQSmx6TStabXNwTkltUUltdmpadlRSUFVUSHF0ZHpOSnEzNFBjVTY0M2lUN3JEWjlUN09wbldrbm5lZ1BkN2hzeTVRMHhIRGI0aXZ1VnM3dWZRdGVHeWV6V0RWYkNsSjd2M1U1dHpKMDUzRFczWmNCT1Z1bHlQT3NWQXFqWWFxN0E1UEpnODZKcXJnWmxhWFdXckVnYUwyK2taQUk4QzhGVjhaQUh4WDQyMDZ5YUZ1MVovM2RadTRNdlJpOXI2bTUrSzNBYTh1aHNBcnRNd3pDWlliSlJ4ZzNkTTU1N3JZcGNqNGIwNXVEUmtYV3BTR3o4dEUwKzZhOWlEOHZpTHVKcE1NSFJ4STZzWWlUTGNVZkIyTVh1aW5idlJweEUyanZpTWdDUFVWcXJZYzlFbFUyNWFZbFpTa2hMZ21oSlRZV0NFdVdQS2VTUXd6Y3J3VGsrdVdmZVR3RVdSekJsMXJKSnRYT0s4ZGxYNWRSU3NMU0Y5TStBOG1PK2tDQ0RqcDEvdWN3c2NvN0RrV0ZXeEpubGtDekQrdkYzT3VvRVpRdmpSSFRVVjV4VGxtVnZ6Sjhub25yVkRUSGk3ZEVGemFOT3dMQ0JkMW52dz09IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURHL1JNTWxGUzEvVFdBSytzUUlCRUlBN3VTRkcyVnFTc2JXeTFRbEw5bFdpK0hEVCsrNUVaMkg4S2tnMFZTcTdBeS9salBTWW0yU2paSjJyOXN3UmtqeFNuRmNYRExScXBsRWM2bkk9IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE4Mjc1NjYwfQ==
+ 4568  docker tag melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/9e1c6b8b-6740-4959-aa36-13d89505e618:latest
+ 4569  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/9e1c6b8b-6740-4959-aa36-13d89505e618:latest
+ 4570  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4571  /usr/bin/python3 /Users/mansour/.vscode/extensions/ms-python.python-2024.8.0/python_files/printEnvVariablesToFile.py /Users/mansour/.vscode/extensions/ms-python.python-2024.8.0/python_files/deactivate/zsh/envVars.txt
+ 4572  clear
+ 4573  conda activate melio
+ 4574  pip list
+ 4575  clear
+ 4576  uvicorn main_kserve:app --host 0.0.0.0 --port 80
+ 4577  python main_kserve.py
+ 4578  clear
+ 4579  python main_kserve.py
+ 4580  clear
+ 4581  history
+ 4582  uvicorn main_kserve:app --host 0.0.0.0 --port 80
+ 4583  clear
+ 4584  history
+ 4585  docker build --platform linux/amd64 -t zindi-melio .
+ 4586  docker scout quickview zindi-melio
+ 4587  docker run -p 8000:70 zindi- melio
+ 4588  docker run -p 8000:80 zindi- melio
+ 4589  docker run -p 8000:8000 zindi- melio
+ 4590  docker run -p 70:70 zindi- melio
+ 4591  docker images
+ 4592  docker run -p 8000:70 zindi- melio
+ 4593  docker run -p 8000:70 zindi-melio
+ 4594  docker build --platform linux/amd64 -t zindi-melio .
+ 4595  clear
+ 4596  docker build --platform linux/amd64 -t zindi-melio .
+ 4597  git status
+ 4598  clear
+ 4599  docker build --platform linux/amd64 -t zindi-melio .
+ 4600  clear
+ 4601  docker build --platform linux/amd64 -t zindi-melio .
+ 4602  docker system prune
+ 4603  clear
+ 4604  docker build --platform linux/amd64 -t zindi-melio .
+ 4605  doker images
+ 4606  docker images
+ 4607  clear
+ 4608  docker run -p 8000:80 zindi-melio
+ 4609  docker build --platform linux/amd64 -t zindi-melio .
+ 4610  docker system prune -a
+ 4611  docker build --platform linux/amd64 -t zindi-melio .
+ 4612  docker images
+ 4613  docker run -p 8000:80 zindi-melio
+ 4614  clear
+ 4615  history
+ 4616  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoiWlNnVXl2ZFVKT2VtejAvbjhDZS9ZRFZ3VVN1Y3VtOTdwcjJ1RXgyM00wcGtFNGE2WUdDMUtUVmRQNTJ0eWxQU3RmM2JNVDhPRlhzT1NXQmZ2VmplQXhvT0EvYk1xZHdsV0ZNYVJTQjg2QlpOL1c3a2hncVpySWZHWXJNTW10Ukhtc3lPNk1FenRRRVl6OXhlTFlQRmZIN3c5QUpVRTFrWVQ0Z3hFRUFFU2QvM09GeU9LRjd4WWl5eUdpb2VFcXd6UGhFQm9tOVJXcXBaRkxaRmMzMXNCUkRJdFMrb3BBYTR4ZFpRNE9nT1FaZCtQMEJDMTVEdnU0V29tOEliQTc2cGpjUUgzSXlEckczbE10bFJGbTZVU0RxaENKYjN6R2pHZjMrMWp3VUppSW0rYzdrTnZYNWwrT3pQczdabmpkYlkvd01SMlFRbGlQR3ZXQlJYbmNDVmwyMlZyQlFjNjBvanYzUkxIVVd3clBTZUcrWDdnbTR0TG9kMTdKYjFXcjBwZFd0QTlMdkE2endWbE1zbnlxMExUcEk4eG11S2F5czcxNVRTTStPdHpwdkQvV0UrYnNkSVRWRmJyNjRWUVFoVVJVWmtyeUpjT0hpSEU1bmFMd3BKMFlOdXcvOHREU0xhRXl6SGpadUhtT3hMM1l0UHBYWEdkdWg3a1R6VTlCWlZEcXBHeTRCaTRoU2dPVEt0MEV4Qkg2U2RHM016N3hlYWk4MTdEOTQxc05Yb0dvSXIvQUVXN0dzSE9LVE1iR3oyckt5cDM1bDlQb2NTZG1EMzJhTExOdEV1OW5Uc2dxUTlPbVBkWGRVQWdxWTRVS2Z2VE0yS3laYUozVDhEUmRFWnd2NTljNy9ieHFXcU1zSk9WZTB5bGcram8xRWVta2V4N0xnMmd1dlNYVjc2WTZMZmZwaHVmUFJObVBId3l5QUhnSGFRSVU4bjhLSGtjU09aYXpZV1B5VFppdVcxWVRNcTkyTlNpR2hwdndVWGt0VFkrMmN6TXJ2N3JlTDhGODgwQUdiZHUrU1IrTDlMbXp3bDQ0YVJObklJOC9UYnFXdlhvZkpDdmtyV1dNbS85K0Zjd0MvQkVxd1hiNTFBUXk3MzNGMTJGU2FSaEdwY3J2bm9ibnk4SnlreWJCYmdpSkdGTDlZUGhVRlY0VHNLSTUzdTRqM3RNQXRjeW9JMGljMkVvbEVHMHo4VGFlc2FlWEszRjcrYUJWVVJCQjRJZXVtcmNhYmdtN05VbWNtbDhYRjExU2w0Mi9ETWJBMVRCaDRwMlhmajdxZUVrMUxMM2pSdWp5WE1jYXVYY0NldW9tbHV5dVl6ZUhOTk0rWTNZRmVrZC81dlhrVGRCV1dCV1Q1aEpmbmd0aW05cmxjUFNWQ2YrSnBLSUowdExwSXozUGF5QzZVaU5oQ2V6amJncXNtRy95elE2aDdaOHBneEVXUmFReTJZMTQvek5NdWk2eGhMWjJwendoRTdmWVFmNUh3b0F6NXQ5aTZBelJDaW9sWjM0UjVEaTN0QmlRcW0xcGUxZnoyN2lqMjRBd0ozZmU4MU43T2ZkODdGYXBHZkFTclI1anJ0bnRYZ2RKR2lsT1pVNStZemgxaVRDQzY4SDJmTFViby9EYUxwUDNxNGM2Z09RdzAvbXVRQjU5eDlrbitwWURVemExOWZQSmx6TStabXNwTkltUUltdmpadlRSUFVUSHF0ZHpOSnEzNFBjVTY0M2lUN3JEWjlUN09wbldrbm5lZ1BkN2hzeTVRMHhIRGI0aXZ1VnM3dWZRdGVHeWV6V0RWYkNsSjd2M1U1dHpKMDUzRFczWmNCT1Z1bHlQT3NWQXFqWWFxN0E1UEpnODZKcXJnWmxhWFdXckVnYUwyK2taQUk4QzhGVjhaQUh4WDQyMDZ5YUZ1MVovM2RadTRNdlJpOXI2bTUrSzNBYTh1aHNBcnRNd3pDWlliSlJ4ZzNkTTU1N3JZcGNqNGIwNXVEUmtYV3BTR3o4dEUwKzZhOWlEOHZpTHVKcE1NSFJ4STZzWWlUTGNVZkIyTVh1aW5idlJweEUyanZpTWdDUFVWcXJZYzlFbFUyNWFZbFpTa2hMZ21oSlRZV0NFdVdQS2VTUXd6Y3J3VGsrdVdmZVR3RVdSekJsMXJKSnRYT0s4ZGxYNWRSU3NMU0Y5TStBOG1PK2tDQ0RqcDEvdWN3c2NvN0RrV0ZXeEpubGtDekQrdkYzT3VvRVpRdmpSSFRVVjV4VGxtVnZ6Sjhub25yVkRUSGk3ZEVGemFOT3dMQ0JkMW52dz09IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURHL1JNTWxGUzEvVFdBSytzUUlCRUlBN3VTRkcyVnFTc2JXeTFRbEw5bFdpK0hEVCsrNUVaMkg4S2tnMFZTcTdBeS9salBTWW0yU2paSjJyOXN3UmtqeFNuRmNYRExScXBsRWM2bkk9IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE4Mjc1NjYwfQ==
+ 4617  docker login 
+ 4618  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoiWlNnVXl2ZFVKT2VtejAvbjhDZS9ZRFZ3VVN1Y3VtOTdwcjJ1RXgyM00wcGtFNGE2WUdDMUtUVmRQNTJ0eWxQU3RmM2JNVDhPRlhzT1NXQmZ2VmplQXhvT0EvYk1xZHdsV0ZNYVJTQjg2QlpOL1c3a2hncVpySWZHWXJNTW10Ukhtc3lPNk1FenRRRVl6OXhlTFlQRmZIN3c5QUpVRTFrWVQ0Z3hFRUFFU2QvM09GeU9LRjd4WWl5eUdpb2VFcXd6UGhFQm9tOVJXcXBaRkxaRmMzMXNCUkRJdFMrb3BBYTR4ZFpRNE9nT1FaZCtQMEJDMTVEdnU0V29tOEliQTc2cGpjUUgzSXlEckczbE10bFJGbTZVU0RxaENKYjN6R2pHZjMrMWp3VUppSW0rYzdrTnZYNWwrT3pQczdabmpkYlkvd01SMlFRbGlQR3ZXQlJYbmNDVmwyMlZyQlFjNjBvanYzUkxIVVd3clBTZUcrWDdnbTR0TG9kMTdKYjFXcjBwZFd0QTlMdkE2endWbE1zbnlxMExUcEk4eG11S2F5czcxNVRTTStPdHpwdkQvV0UrYnNkSVRWRmJyNjRWUVFoVVJVWmtyeUpjT0hpSEU1bmFMd3BKMFlOdXcvOHREU0xhRXl6SGpadUhtT3hMM1l0UHBYWEdkdWg3a1R6VTlCWlZEcXBHeTRCaTRoU2dPVEt0MEV4Qkg2U2RHM016N3hlYWk4MTdEOTQxc05Yb0dvSXIvQUVXN0dzSE9LVE1iR3oyckt5cDM1bDlQb2NTZG1EMzJhTExOdEV1OW5Uc2dxUTlPbVBkWGRVQWdxWTRVS2Z2VE0yS3laYUozVDhEUmRFWnd2NTljNy9ieHFXcU1zSk9WZTB5bGcram8xRWVta2V4N0xnMmd1dlNYVjc2WTZMZmZwaHVmUFJObVBId3l5QUhnSGFRSVU4bjhLSGtjU09aYXpZV1B5VFppdVcxWVRNcTkyTlNpR2hwdndVWGt0VFkrMmN6TXJ2N3JlTDhGODgwQUdiZHUrU1IrTDlMbXp3bDQ0YVJObklJOC9UYnFXdlhvZkpDdmtyV1dNbS85K0Zjd0MvQkVxd1hiNTFBUXk3MzNGMTJGU2FSaEdwY3J2bm9ibnk4SnlreWJCYmdpSkdGTDlZUGhVRlY0VHNLSTUzdTRqM3RNQXRjeW9JMGljMkVvbEVHMHo4VGFlc2FlWEszRjcrYUJWVVJCQjRJZXVtcmNhYmdtN05VbWNtbDhYRjExU2w0Mi9ETWJBMVRCaDRwMlhmajdxZUVrMUxMM2pSdWp5WE1jYXVYY0NldW9tbHV5dVl6ZUhOTk0rWTNZRmVrZC81dlhrVGRCV1dCV1Q1aEpmbmd0aW05cmxjUFNWQ2YrSnBLSUowdExwSXozUGF5QzZVaU5oQ2V6amJncXNtRy95elE2aDdaOHBneEVXUmFReTJZMTQvek5NdWk2eGhMWjJwendoRTdmWVFmNUh3b0F6NXQ5aTZBelJDaW9sWjM0UjVEaTN0QmlRcW0xcGUxZnoyN2lqMjRBd0ozZmU4MU43T2ZkODdGYXBHZkFTclI1anJ0bnRYZ2RKR2lsT1pVNStZemgxaVRDQzY4SDJmTFViby9EYUxwUDNxNGM2Z09RdzAvbXVRQjU5eDlrbitwWURVemExOWZQSmx6TStabXNwTkltUUltdmpadlRSUFVUSHF0ZHpOSnEzNFBjVTY0M2lUN3JEWjlUN09wbldrbm5lZ1BkN2hzeTVRMHhIRGI0aXZ1VnM3dWZRdGVHeWV6V0RWYkNsSjd2M1U1dHpKMDUzRFczWmNCT1Z1bHlQT3NWQXFqWWFxN0E1UEpnODZKcXJnWmxhWFdXckVnYUwyK2taQUk4QzhGVjhaQUh4WDQyMDZ5YUZ1MVovM2RadTRNdlJpOXI2bTUrSzNBYTh1aHNBcnRNd3pDWlliSlJ4ZzNkTTU1N3JZcGNqNGIwNXVEUmtYV3BTR3o4dEUwKzZhOWlEOHZpTHVKcE1NSFJ4STZzWWlUTGNVZkIyTVh1aW5idlJweEUyanZpTWdDUFVWcXJZYzlFbFUyNWFZbFpTa2hMZ21oSlRZV0NFdVdQS2VTUXd6Y3J3VGsrdVdmZVR3RVdSekJsMXJKSnRYT0s4ZGxYNWRSU3NMU0Y5TStBOG1PK2tDQ0RqcDEvdWN3c2NvN0RrV0ZXeEpubGtDekQrdkYzT3VvRVpRdmpSSFRVVjV4VGxtVnZ6Sjhub25yVkRUSGk3ZEVGemFOT3dMQ0JkMW52dz09IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURHL1JNTWxGUzEvVFdBSytzUUlCRUlBN3VTRkcyVnFTc2JXeTFRbEw5bFdpK0hEVCsrNUVaMkg4S2tnMFZTcTdBeS9salBTWW0yU2paSjJyOXN3UmtqeFNuRmNYRExScXBsRWM2bkk9IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE4Mjc1NjYwfQ==
+ 4619  clear
+ 4620  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoia1FRdE0vcVplWTd5OVRwY3lLck0zS0Q5c081WGFKOXJTbVNxcGxFcDBpb3V1VEdhYzdiQVVzYzdTUUVFbzRkSlJLcjJFTzYzTUpoZzlBeGZaelROa1FhZ1lUU1RIZjNHN1IzdTBoNnNlcmRlNzNXMm9xaXVqSU41bXJLbnJ3NU9nVzc0dmNLdVNMalRKUWtZT0EvSnUzSTdpbUY0NzRYZC8yYWZadnVucUFMZWtMNnNVNXdaSkovYVh1U1JwZjdUNFN0V2JYT2R0bERjaFRSak5QVUFCL1JaWXZ6dldoRXg5YWRMOWp3clR3V082K3MrMVkwVzJjVEhYQ3BYQWEzdFRVSnozcXltY1JUdEZJRm9GMFlsQ3RFWkNkeTJOY3ZlbDZTTENsU2c1bGxDSXBCUUFzeTRtZUxwKzFrMlFSTXZyR2dvWUEzbFNiYlMvdUNMcWZNLzBxK3lJSXFrR2hyWTV1RWlHVXpxRytaMzhQZGJTbmxzeG0va0xGaUVVdE5CbzFyc2VMSk5uSXYxNjJvNjVJbVJ1NWFUNG5hUGNHOUdyUjgvaXh5SzBVNDdxbkt1L0ZUcWZVdG5OK3NDYTZYSlE5KzlVSTdvSFlRUVpKbEhZMWl4ZU9lZWVKK1ZLWEtDbDREMHpLTS9OSTNFZ3dlajVOWnRxaDlvTC9MWjVNYzJLUjlad29ZYnA4MjZEeS9tRGwwenRjeVJ6NVIvTmpadVJ2dU9jenhRbE5Ob05LTU9hYzZjUHhqcWlEcGVuaUg3VlFJMXlJZ1hkaTVKbDN1bFpFeFJpUi9QeEx5OFVXbXlIRDVQTUZ5Q3Vtb1JLSC9UbDEwc3dSaWYrMnQ0VUFJZjRuZ21EZ2tUdW00RlhmRE5Td0pJWlBGbEVLczBDZUc3UUlBb2lQU05Xc1hNaHFqY0I1cEFmY0VOcjNDcy9ZNms2dFA0ZERFaGF2SUxSTytLVU1aOU9Ra0xaaS85VUU1eDMva0I4SWIvTVZJQ0ZGZ2VJaDZZMWFBM0cxS21EUlUvcmpGL205L25VdlVJYlkrNGVHNTNCSVk2VzN6SUVudXlPY21MMVB4UjBYYWRHR2FUZXFvakJxdndhcTk4WjhzbGlCNktlb0hEK3pUQ1g1RkI2emhtUmx0aFI3UFlxWW5YNXRBRERqUGlMeFF6TU40Sldkd3RmZXFQRXpuM3RJSk9UcWRqNEdINm4zKzViRnBnZDBYYXNKREt6NWxXQjNPWEdIODlSekplL0J2RUs0bThYeERtOGZ2cGhmMU0xeVlpNlFYVWlCNzJjcDV0Ym9wRlpMalBLQWlxL3l0Qnc4c2ZHSURTcmtNT2o0dGZhcVBack55SUw3VndHN2RmSmVVVzlCTmpra2c4MTZ2R0hnTlFJa1ZESnZ4cFdkT3I0TklHaTFKWnJ6T1lLZjd4SHB1OEtDQ1k3dzZGdzVYMTY5OEl1RVNYMDUwNDVTMG40d3JKRmY5QTI4WG1JN2NUZUdEMG92cHJSc0cvbkJ3SzJuT092cmpmc0ZTUGVVSmdqakw2OGxFTEUyOUx1K2s1TkIzRVc0UnVkR05PWHBnblZ1Yy9ta2R2ODJCelJrRnVWVkoxczBqNGg1SDFWMzR5dkJGbEtEK2RkT0s1bmJrTEh5Mkh5N3hzV2VLbWxyeVRKck9hK0pHQU94T2tDL2NLYm53TllSb1A5Y0d4OFdJR29ZWlc4TnZIWmtpRFdRalJUbG5NRm1vQzFDMXRLS0ZnVEpDdEV4enNRR1RGTnp2eWllRWNXOWxqbDVwUUZBY2hpUGJYa2NMYlpLemJocmEwTEdTSkJ0NWJWSDg1eVFlejZNbEJZWjZvM0p1N1VHZkhadUpTczFnT0lOMGRBTjlFbGVBMG8zQUttd3RBckJQWFE5NmkyZUd0SHA2TFZ1OHVuZGp0dDQ4d21NdU9mam9JdkE1MW1jekFHcmM1Wjk5M2FxWE5qL1lvNFNiQVlLNTZCUkhST0l0Vlc4S0JyVjJoTnp1SFJ3U251bEMybWFpajA2TkFvRXRERmozR01VR0hVR1JIUG9XcEsxckUvT2FyVU5hNFFlNnMvMGJJNENSd0JhMktTckNuTDVvSW1aNlUrVnpQOFEvaDlJMFBCVXFUZGJROUhOTFJOeTVydmdPQ3dNazlvL3V4U3dRbndKdGxpSGwwMHA0VTNweUxaYWpEQk5tMDBERk5PcjhoTFZXSENubjRJS1h2Sm04SWswaGtyZ0VzU2pjSGsxTlNxZjRqaHVEK2pHRW9JL3JWZ0FqK213VlpEQT09IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURHb3hoQWp1dmFLR3pJRm02d0lCRUlBNzFiNThXV3VwRWpBbWVxcU1wcTFPMEJWK3pReHhOb25NWW04OFptbWptY1FwNUJSM2NQYjJyaHpvWENCcytJa3RwVjNzbzNNcDdwVWwwWFU9IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE5MDE4NTQ3fQ==
+ 4621  docker tag zindi-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/9116dcc9-ecd4-4690-8dba-64deff2f0ff0:latest
+ 4622  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/9116dcc9-ecd4-4690-8dba-64deff2f0ff0:latest
+ 4623  docker system prune -a
+ 4624  clear
+ 4625  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4626  python main.py
+ 4627  ls
+ 4628  ls -lrt
+ 4629  cd submission
+ 4630  ls
+ 4631  clear
+ 4632  ls -lrt
+ 4633  cd deployment
+ 4634  clear
+ 4635  ls
+ 4636  ls 
+ 4637  python main.py
+ 4638  clear
+ 4639  python main.py
+ 4640  clear
+ 4641  python main.py
+ 4642  pip install tensorflow
+ 4643  python --version
+ 4644  clear
+ 4645  docker build --platform linux/amd64 -t zindi-melio .
+ 4646  clear
+ 4647  python main.py
+ 4648  clear
+ 4649  python main.py
+ 4650  clear
+ 4651  python main.py
+ 4652  cear
+ 4653  clear
+ 4654  python main.py
+ 4655  pip install tensorflow
+ 4656  python main.py
+ 4657  pip install tf-keras
+ 4658  python main.py
+ 4659  CLEAR
+ 4660  docker login
+ 4661  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoicTlsb3pzMGRlSVJ4TUowZjRlM3NNVEhNK2dzUVNoMmdOUU91dWtUVDIvZ21OaVIvZzQrRmxzWW5BRG5LaHdLRGh1VkhFc1R2cWF5c3Fra25FcTF6WUtSRXEwaEYrcDJuQkt1a2ZxcXVYS205SkI5RXNjN0VWRFZndjkwc0VvZGdTb25YdVFFMTdBaWNZdkFjUlUxeWNFZGNyU2d1b2dMakllejhLNndlZnZPc1VBZGxPcm9nT3NWQS9Hb28zYmhiNGl6Tzk3TkI4OHpTZGFSMnRDL0poQTY1NVV3bzlHVDhtQjEvMFNYMFM2d3N4eHRoNlpoUGNNTG9vUlpTUlp5azNhZWR1M3hkRWpLeXc4dm1NVUZvdzEzOFJ6SlBBMk5YdjVZdkpnQm5oVGpWNDExTTZzdmNKYTBVcDc2c21ITDJ6ZTFBR3lnL01DUFhLZTRwV28zT01jY2xMMGR6Ny9nUHdSSEdLTzd4alIrZWljM3NIaC9YaFl3K0UvYndnMXFvLzRvVjVBMkhsM1BBYm1adkRaamxENEtpMUl3WXdnZjF5dGk1QllHOWdYVHErVWxIYzBPblVrYkt4OStFU2xHb0F5U2xqUzg2OElLckwvTE81b3d6VDQxRm5RUnVZUnRycGdoQm9tY1hvNkVyUVd4N01pcWs4WnpuZDdzSHNXeENLK1NuSUhGbnJIRmZSaUkyNDkrcVBNdjcvYnh5WkJ6djZIeVpDMlpDLys1TWFhQnpmSUNJYTVCNFh6WjBydDdHMlA1YU9GSkZMeGZzS2NSemVNZXVoZGV0aFI5RlQ3djVGdHFISmVpUjZtMVkvakE0UElnc3FKUmdhaG9mU29OWmYvK3BOaXVLRSsyMTlDWS9tbDFJUHVDL3ZINFZibXlPMG40OWhzS3JxNGVTSU8zZktvNHdaOXBXV1NNL0pUN3dqNUExcGdaOXZSSXlrclNqUzVOd0dOUzdsM3BGRXllRGdmZW5GQnNpbXh3ZTFLRnpzQkVjVWorRWlPYmhENnQzNDloZTlBM09NMEVXSWNFNFRLektRd3FvK2ZrZENHUE81SjV6MGV1UEhsUVQ4TkE2ZXlsbWM4SjFCeFNYbElFay8yTmdPdFdkZFlmYXhadTRPNVduUDl0Mm9qUzZMVkRtQ25HKzFkWWRmSE4weWhmQ3JZeXlod1ZDM084cGxZNzd5RFZCTGJHR1E4cUU1cjhDY0lzQzJ6RUJhTGVGSU1RYXBWUWdLeG9FM0V0c0JhU3RWcmtiSC83NUhqM1R6U1NaUUN2TzZGeVFmTk02Um9RQzBwTFhIVXNBTzhLa3BCQnNRWkhZeXh4elJvd2hPb08zT0xMQVYvK1NkUlR0bXRDb3FyNDlBYVJJTW01dFZSV1RtRDZqMXJZN3lkTjR0WmxkRCt0Y2l0ZUJPcEhXdTNpZ2gza2l1ZkNnWXZMU081Mmp2M0ZBU1RsSld5UHlzdk12amRUU2hxd1NYOHoxNUtzUEdUSTNBakpxMHN3RzFXTDVsTFIrM2NmT1JCUFNuc3NqN0lITjNiKzJLdkdtMzhuc2R1OXpudnlmMnZoOVoralVTVnE1bmtRSXF4akZTSnZDR2RyUHhTOGRpcjltWEk5cC9UOHFsaE5ld2VzSjN5aTJxcEk1M3NRNE5FeE1DNDhSaHo2MzhFRnAvNUt1OUZEZWhXU2x3NS9Rc0hXc0VPZzJhdDNBYUpUTXlBNEJkR0ZCc2g5VWtWT1BzUTd0dVkwSjJ3Y3hBWlhVMGlMM0kyMHg2RGdDL0pTRWVsQ3RKM3pnNEU1ak4xMXkzcW9lOWZuajJVd0hHcUZ5NFdtbGlyclpERFhPa0hKaW5NU2I5eVk4eU1McW9tdXpqWlovVFFuc2s4UWVIQnJRWUxrK1RYbmwvMlp2Qnc0b05ZYXpyMU5RUXNKdDc5ZFZ0SHRUNU5KSVdzck0vMVFoWFNNWFVwNjgvY3d4SElpcXoycmRrZDMrTk1EVmZjRm5xT09ncGxOU3B2L05YQkczUXR4WTJFaXJyVk4vVHJFaFpiMDFmN0RaTko4LzZLU0FIVCtzekIya1U2VFdwQnJ5MkIyVHhLTGhzQ3FnMlZJeEt5b3cwb2hzdXNGNEFxNGZvR0JaSUV6YUVQQnlOZVBEVU51TkFKWm9hVG1LdHRCUGJUR0thSXV0ZldOSldyUmdybURUOGVtM1N3YmZsV0pDZWFmMXZzdFJQQ1VZcXpGZnBydTM2UUNKTExTNU5XQWswSkxOMVZuaHNnPT0iLCJkYXRha2V5IjoiQVFFQkFIaCtkUytCbE51ME54blh3b3diSUxzMTE1eWpkK0xOQVpoQkxac3VuT3hrM0FBQUFINHdmQVlKS29aSWh2Y05BUWNHb0c4d2JRSUJBREJvQmdrcWhraUc5dzBCQndFd0hnWUpZSVpJQVdVREJBRXVNQkVFREl2MUdPREZLM05CcjZMMzJ3SUJFSUE3cUM0aW1pSzZjWUhHYUw4R0pnY2hyaGtQTkJCVm9pRXdXeFlDVVRIbFplSDRvamlNemR3bnowZjlKYUxad0lscG1XbEQ3Q0V5aDY0TDByND0iLCJ2ZXJzaW9uIjoiMiIsInR5cGUiOiJEQVRBX0tFWSIsImV4cGlyYXRpb24iOjE3MTkyNzkxMTR9
+ 4662  clear
+ 4663  docker build --platform linux/amd64 -t zindi-melio .
+ 4664  clear
+ 4665  docker build --platform linux/amd64 -t zindi-melio .
+ 4666  python --version
+ 4667  docker build --platform linux/amd64 -t zindi-melio .
+ 4668  docker tag zindi-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/b96f4feb-9bb1-45c1-9348-036882dd482a:latest
+ 4669  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/b96f4feb-9bb1-45c1-9348-036882dd482a:latest
+ 4670  clear
+ 4671  docker build --platform linux/amd64 -t zindi-melio .
+ 4672  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoicTlsb3pzMGRlSVJ4TUowZjRlM3NNVEhNK2dzUVNoMmdOUU91dWtUVDIvZ21OaVIvZzQrRmxzWW5BRG5LaHdLRGh1VkhFc1R2cWF5c3Fra25FcTF6WUtSRXEwaEYrcDJuQkt1a2ZxcXVYS205SkI5RXNjN0VWRFZndjkwc0VvZGdTb25YdVFFMTdBaWNZdkFjUlUxeWNFZGNyU2d1b2dMakllejhLNndlZnZPc1VBZGxPcm9nT3NWQS9Hb28zYmhiNGl6Tzk3TkI4OHpTZGFSMnRDL0poQTY1NVV3bzlHVDhtQjEvMFNYMFM2d3N4eHRoNlpoUGNNTG9vUlpTUlp5azNhZWR1M3hkRWpLeXc4dm1NVUZvdzEzOFJ6SlBBMk5YdjVZdkpnQm5oVGpWNDExTTZzdmNKYTBVcDc2c21ITDJ6ZTFBR3lnL01DUFhLZTRwV28zT01jY2xMMGR6Ny9nUHdSSEdLTzd4alIrZWljM3NIaC9YaFl3K0UvYndnMXFvLzRvVjVBMkhsM1BBYm1adkRaamxENEtpMUl3WXdnZjF5dGk1QllHOWdYVHErVWxIYzBPblVrYkt4OStFU2xHb0F5U2xqUzg2OElLckwvTE81b3d6VDQxRm5RUnVZUnRycGdoQm9tY1hvNkVyUVd4N01pcWs4WnpuZDdzSHNXeENLK1NuSUhGbnJIRmZSaUkyNDkrcVBNdjcvYnh5WkJ6djZIeVpDMlpDLys1TWFhQnpmSUNJYTVCNFh6WjBydDdHMlA1YU9GSkZMeGZzS2NSemVNZXVoZGV0aFI5RlQ3djVGdHFISmVpUjZtMVkvakE0UElnc3FKUmdhaG9mU29OWmYvK3BOaXVLRSsyMTlDWS9tbDFJUHVDL3ZINFZibXlPMG40OWhzS3JxNGVTSU8zZktvNHdaOXBXV1NNL0pUN3dqNUExcGdaOXZSSXlrclNqUzVOd0dOUzdsM3BGRXllRGdmZW5GQnNpbXh3ZTFLRnpzQkVjVWorRWlPYmhENnQzNDloZTlBM09NMEVXSWNFNFRLektRd3FvK2ZrZENHUE81SjV6MGV1UEhsUVQ4TkE2ZXlsbWM4SjFCeFNYbElFay8yTmdPdFdkZFlmYXhadTRPNVduUDl0Mm9qUzZMVkRtQ25HKzFkWWRmSE4weWhmQ3JZeXlod1ZDM084cGxZNzd5RFZCTGJHR1E4cUU1cjhDY0lzQzJ6RUJhTGVGSU1RYXBWUWdLeG9FM0V0c0JhU3RWcmtiSC83NUhqM1R6U1NaUUN2TzZGeVFmTk02Um9RQzBwTFhIVXNBTzhLa3BCQnNRWkhZeXh4elJvd2hPb08zT0xMQVYvK1NkUlR0bXRDb3FyNDlBYVJJTW01dFZSV1RtRDZqMXJZN3lkTjR0WmxkRCt0Y2l0ZUJPcEhXdTNpZ2gza2l1ZkNnWXZMU081Mmp2M0ZBU1RsSld5UHlzdk12amRUU2hxd1NYOHoxNUtzUEdUSTNBakpxMHN3RzFXTDVsTFIrM2NmT1JCUFNuc3NqN0lITjNiKzJLdkdtMzhuc2R1OXpudnlmMnZoOVoralVTVnE1bmtRSXF4akZTSnZDR2RyUHhTOGRpcjltWEk5cC9UOHFsaE5ld2VzSjN5aTJxcEk1M3NRNE5FeE1DNDhSaHo2MzhFRnAvNUt1OUZEZWhXU2x3NS9Rc0hXc0VPZzJhdDNBYUpUTXlBNEJkR0ZCc2g5VWtWT1BzUTd0dVkwSjJ3Y3hBWlhVMGlMM0kyMHg2RGdDL0pTRWVsQ3RKM3pnNEU1ak4xMXkzcW9lOWZuajJVd0hHcUZ5NFdtbGlyclpERFhPa0hKaW5NU2I5eVk4eU1McW9tdXpqWlovVFFuc2s4UWVIQnJRWUxrK1RYbmwvMlp2Qnc0b05ZYXpyMU5RUXNKdDc5ZFZ0SHRUNU5KSVdzck0vMVFoWFNNWFVwNjgvY3d4SElpcXoycmRrZDMrTk1EVmZjRm5xT09ncGxOU3B2L05YQkczUXR4WTJFaXJyVk4vVHJFaFpiMDFmN0RaTko4LzZLU0FIVCtzekIya1U2VFdwQnJ5MkIyVHhLTGhzQ3FnMlZJeEt5b3cwb2hzdXNGNEFxNGZvR0JaSUV6YUVQQnlOZVBEVU51TkFKWm9hVG1LdHRCUGJUR0thSXV0ZldOSldyUmdybURUOGVtM1N3YmZsV0pDZWFmMXZzdFJQQ1VZcXpGZnBydTM2UUNKTExTNU5XQWswSkxOMVZuaHNnPT0iLCJkYXRha2V5IjoiQVFFQkFIaCtkUytCbE51ME54blh3b3diSUxzMTE1eWpkK0xOQVpoQkxac3VuT3hrM0FBQUFINHdmQVlKS29aSWh2Y05BUWNHb0c4d2JRSUJBREJvQmdrcWhraUc5dzBCQndFd0hnWUpZSVpJQVdVREJBRXVNQkVFREl2MUdPREZLM05CcjZMMzJ3SUJFSUE3cUM0aW1pSzZjWUhHYUw4R0pnY2hyaGtQTkJCVm9pRXdXeFlDVVRIbFplSDRvamlNemR3bnowZjlKYUxad0lscG1XbEQ3Q0V5aDY0TDByND0iLCJ2ZXJzaW9uIjoiMiIsInR5cGUiOiJEQVRBX0tFWSIsImV4cGlyYXRpb24iOjE3MTkyNzkxMTR9
+ 4673  docker tag zindi-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/b96f4feb-9bb1-45c1-9348-036882dd482a:latest
+ 4674  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/b96f4feb-9bb1-45c1-9348-036882dd482a:latest
+ 4675  clear
+ 4676  docker tag melio-zindi:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/6d71fd87-84fa-4e73-a567-f39feac2d03c:latest
+ 4677  docker tag zindi-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/6d71fd87-84fa-4e73-a567-f39feac2d03c:latest
+ 4678  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/6d71fd87-84fa-4e73-a567-f39feac2d03c:latest
+ 4679  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoicTlsb3pzMGRlSVJ4TUowZjRlM3NNVEhNK2dzUVNoMmdOUU91dWtUVDIvZ21OaVIvZzQrRmxzWW5BRG5LaHdLRGh1VkhFc1R2cWF5c3Fra25FcTF6WUtSRXEwaEYrcDJuQkt1a2ZxcXVYS205SkI5RXNjN0VWRFZndjkwc0VvZGdTb25YdVFFMTdBaWNZdkFjUlUxeWNFZGNyU2d1b2dMakllejhLNndlZnZPc1VBZGxPcm9nT3NWQS9Hb28zYmhiNGl6Tzk3TkI4OHpTZGFSMnRDL0poQTY1NVV3bzlHVDhtQjEvMFNYMFM2d3N4eHRoNlpoUGNNTG9vUlpTUlp5azNhZWR1M3hkRWpLeXc4dm1NVUZvdzEzOFJ6SlBBMk5YdjVZdkpnQm5oVGpWNDExTTZzdmNKYTBVcDc2c21ITDJ6ZTFBR3lnL01DUFhLZTRwV28zT01jY2xMMGR6Ny9nUHdSSEdLTzd4alIrZWljM3NIaC9YaFl3K0UvYndnMXFvLzRvVjVBMkhsM1BBYm1adkRaamxENEtpMUl3WXdnZjF5dGk1QllHOWdYVHErVWxIYzBPblVrYkt4OStFU2xHb0F5U2xqUzg2OElLckwvTE81b3d6VDQxRm5RUnVZUnRycGdoQm9tY1hvNkVyUVd4N01pcWs4WnpuZDdzSHNXeENLK1NuSUhGbnJIRmZSaUkyNDkrcVBNdjcvYnh5WkJ6djZIeVpDMlpDLys1TWFhQnpmSUNJYTVCNFh6WjBydDdHMlA1YU9GSkZMeGZzS2NSemVNZXVoZGV0aFI5RlQ3djVGdHFISmVpUjZtMVkvakE0UElnc3FKUmdhaG9mU29OWmYvK3BOaXVLRSsyMTlDWS9tbDFJUHVDL3ZINFZibXlPMG40OWhzS3JxNGVTSU8zZktvNHdaOXBXV1NNL0pUN3dqNUExcGdaOXZSSXlrclNqUzVOd0dOUzdsM3BGRXllRGdmZW5GQnNpbXh3ZTFLRnpzQkVjVWorRWlPYmhENnQzNDloZTlBM09NMEVXSWNFNFRLektRd3FvK2ZrZENHUE81SjV6MGV1UEhsUVQ4TkE2ZXlsbWM4SjFCeFNYbElFay8yTmdPdFdkZFlmYXhadTRPNVduUDl0Mm9qUzZMVkRtQ25HKzFkWWRmSE4weWhmQ3JZeXlod1ZDM084cGxZNzd5RFZCTGJHR1E4cUU1cjhDY0lzQzJ6RUJhTGVGSU1RYXBWUWdLeG9FM0V0c0JhU3RWcmtiSC83NUhqM1R6U1NaUUN2TzZGeVFmTk02Um9RQzBwTFhIVXNBTzhLa3BCQnNRWkhZeXh4elJvd2hPb08zT0xMQVYvK1NkUlR0bXRDb3FyNDlBYVJJTW01dFZSV1RtRDZqMXJZN3lkTjR0WmxkRCt0Y2l0ZUJPcEhXdTNpZ2gza2l1ZkNnWXZMU081Mmp2M0ZBU1RsSld5UHlzdk12amRUU2hxd1NYOHoxNUtzUEdUSTNBakpxMHN3RzFXTDVsTFIrM2NmT1JCUFNuc3NqN0lITjNiKzJLdkdtMzhuc2R1OXpudnlmMnZoOVoralVTVnE1bmtRSXF4akZTSnZDR2RyUHhTOGRpcjltWEk5cC9UOHFsaE5ld2VzSjN5aTJxcEk1M3NRNE5FeE1DNDhSaHo2MzhFRnAvNUt1OUZEZWhXU2x3NS9Rc0hXc0VPZzJhdDNBYUpUTXlBNEJkR0ZCc2g5VWtWT1BzUTd0dVkwSjJ3Y3hBWlhVMGlMM0kyMHg2RGdDL0pTRWVsQ3RKM3pnNEU1ak4xMXkzcW9lOWZuajJVd0hHcUZ5NFdtbGlyclpERFhPa0hKaW5NU2I5eVk4eU1McW9tdXpqWlovVFFuc2s4UWVIQnJRWUxrK1RYbmwvMlp2Qnc0b05ZYXpyMU5RUXNKdDc5ZFZ0SHRUNU5KSVdzck0vMVFoWFNNWFVwNjgvY3d4SElpcXoycmRrZDMrTk1EVmZjRm5xT09ncGxOU3B2L05YQkczUXR4WTJFaXJyVk4vVHJFaFpiMDFmN0RaTko4LzZLU0FIVCtzekIya1U2VFdwQnJ5MkIyVHhLTGhzQ3FnMlZJeEt5b3cwb2hzdXNGNEFxNGZvR0JaSUV6YUVQQnlOZVBEVU51TkFKWm9hVG1LdHRCUGJUR0thSXV0ZldOSldyUmdybURUOGVtM1N3YmZsV0pDZWFmMXZzdFJQQ1VZcXpGZnBydTM2UUNKTExTNU5XQWswSkxOMVZuaHNnPT0iLCJkYXRha2V5IjoiQVFFQkFIaCtkUytCbE51ME54blh3b3diSUxzMTE1eWpkK0xOQVpoQkxac3VuT3hrM0FBQUFINHdmQVlKS29aSWh2Y05BUWNHb0c4d2JRSUJBREJvQmdrcWhraUc5dzBCQndFd0hnWUpZSVpJQVdVREJBRXVNQkVFREl2MUdPREZLM05CcjZMMzJ3SUJFSUE3cUM0aW1pSzZjWUhHYUw4R0pnY2hyaGtQTkJCVm9pRXdXeFlDVVRIbFplSDRvamlNemR3bnowZjlKYUxad0lscG1XbEQ3Q0V5aDY0TDByND0iLCJ2ZXJzaW9uIjoiMiIsInR5cGUiOiJEQVRBX0tFWSIsImV4cGlyYXRpb24iOjE3MTkyNzkxMTR9
+ 4680  docker tag zindi-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/6d71fd87-84fa-4e73-a567-f39feac2d03c:latest
+ 4681  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/6d71fd87-84fa-4e73-a567-f39feac2d03c:latest
+ 4682  clear
+ 4683  docker images
+ 4684  docker ps -a
+ 4685  ls
+ 4686  cd deployment
+ 4687  docker compose up -d
+ 4688  history >docker_command.txt -700
+ 4689  ls
+ 4690  clear
+ 4691  docker image tag melio:latest mansourbarro/melio-dyu-fr:latest
+ 4692  docker image tag zindi-melio:latest mansourbarro/melio-dyu-fr:latest
+ 4693  docker push mansourbarro/melio-dyu-fr
+ 4694  node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4695  clear
+ 4696* node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4697  history
+ 4698  docker system prune -a
+ 4699  clear
+ 4700  python main.py
+ 4701  ls
+ 4702  cd submission
+ 4703  ls
+ 4704  cd deployment
+ 4705  ls
+ 4706  clear
+ 4707  python main.py
+ 4708  source venv/bin/activate
+ 4709  source melio/bin/activate
+ 4710  conda venv list
+ 4711  conda env list
+ 4712  conda actiave venv
+ 4713  conda activate venv
+ 4714  clear
+ 4715  pip list
+ 4716  python main.py
+ 4717  conda deactivate
+ 4718  conda activate melio
+ 4719  clear
+ 4720  pip list
+ 4721  clear
+ 4722  python main.py
+ 4723  clear
+ 4724  docker build --platform linux/amd64 -t zindi-melio .
+ 4725  clear
+ 4726  docker build --platform linux/amd64 -t zindi-melio .
+ 4727  clear
+ 4728  docker images ps
+ 4729  docker images ls
+ 4730  docker image ls
+ 4731  docker login
+ 4732  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoiVjdxNmRCMkNWRlZxZGFjVGdLSHd0RDh6bC9KOGZ0OGZPcHZqbitXZU0rcWNqYS9uZWdZTkhuM0JkMGdKMDZ6Z1VZemNMSkNjZ25jZTZ0Tk5RbEJ6ZUhRTlExbVRSWHJxU3EydDQ5ZFlHeThPM0J4cHo2SjZVTVVhWDNWbktMQ1hCN2JObVlEcFNtNngrOStBd3JPcGVHYzlGOWZTMGtoalAvYllUQmIyL0dYM3RDTCtsRkV1NVZzd01Id28xZTI1aWRqbzFBRGlLS25LYXkvckk3R2Y0WTNmbzJsUFQ1ZzdCSG9YMU9LV2JVVGtZU0JTeHNyQTY1L2x1UDFvNHJmR3oydzFsSjJjendIK01GU1d2UXBaNzBZUTRNR3BiL21WZFVDa1NLSEpKTnhSaXRmNHlnN1B0c2VqZkR2RFM5cVlJelBSTUxZS1B0bmdPVGdjQW1RY2tsb0RlbHdSZUpMZEpCaEdQNzVSbnNhM2Y3dFRyejhpTXFHcDRmMnV0QzRod25mbjJLcmt0QjJrRVdIL2xNNlVrQ1F1OXF2QkpyNGlaNnFSSUwydGIxT3Z3TkFpVDdIS3Vpd3RwOEx5Ny9TeGJ4dVJ0MkduemZXWS9rSUNLekVLOHFjQjNObjludmxlVmZTcnVWY0hIR1FvZmwzbzY5elhuWVJGL3ZETHhwUjlsVktRa0RwaTJNN0o4TWdKWnFWRDFKNGJwSEFHV2VEanRuemtIaFQvZ1IzSDFKd3RSd2xvZ0hIWUVKMk9tN2FJUk9SeksrQWd3ZHd0d0JhQlljSEoraUlQOVo4VGp3dk5FcEJ6dnZlaElOYTgzKzNwNzZTMkVPMGZLRkpNQnZhalBldllCcVpZenVwLzh0VXNjSzlRM2hIeGFjZDhpR1laMTRCZFdOdTV1TVprU0FWRUhBYWNNNEViUDk5dUpmSFZRbzc4R2VXcExKMUxpcFlKYWt2ZUk0SlFXOTBMSXR4aG8rMnRjS0wrRk9CdmhqMGVDNmRiL0hXVjNSS0dUdlI3ekxhOTNjRk5tYkZRVVl0Q1VVYkE5b3drdkp2aEp0SlpBN3pMaUwrVk1icGdsUTNwVkFyUGl2cUtCL21YN0QwbEJxNk1udmhsZSt3WTg5S2NacUVVM0RDOG10d1FnVVZSWXBhdEpXUFRocllneGJzRE5PeDVwQUV0bjVlb0pReGpoSWlDZFZyT003bkZRTW9CT0pQeEQvS3JVcUQyQ3RDVWwrZytiUXNOQll3T3B0YzdiY3pic2FQOG5RV3czcG1VdDl3WkRQN3R5NTQ3QmdKbm9ob1hlK0g4bjhNMGVnUG13OWVKemtDRG13UDFUeUVzVjN5UUVvTlVvTzZISXhXTW1JVEx2ZDhWTnBiOVpJeTgwdFl5MlRCdTNCblBpaFdFMHRaaFJUMEdvb05IZkhXNGVZRDdOME56YlF5ZTVyaU9sbC9GR0hDTmFOWmJqSStlblBUeGI5UDcybE5mZGdtaWRWNDBnZENQTTNYUDRUVFNMcktiN05WVGtNZ2F3bzBWdXZBTzhodkFMOEhQY2l4MWE1Zkp6QldxNFMvRHI1ajFtaVdlN2VoZ1NGTjgvWHN3STFGNldLVS9lMmtuVGdOSloxa3dSdEJZRlArRWJta2dQMDF6Q29wcks3TjYzL3RzRmc2Q1RScGFZeERma2gyQ1hDVXRpNmxYYmVCS0VuQ3dvMDRvTEJMZzJ0dXBXS1ZSYlVFU2FSRTAzYWs0SDBTdjJzYlVFS0VWb1lJemh4Z2lkdmpRSlhMZjlFUmh5cXdOcGhMaS9vN2dWODVSalVkQlVMZWdBL0lRMk1wL0VDT0RtMDR3YVdYOVZ5cFhGYWtEQzNiaVhGc2IxN1oyaXNMYVYzSUlEWDNTdndvY0ZpUC95T0JFOUh6V3pDNE1XUG05aDRCRkgwbTFqV2tIdWRCeTJiZWhqZDBmaE0zTjQ0TlNUM21NTTFHZm9nWW4xM01ud01qZk1jVk1maGdsTkdUdTVLUXo4ek5BQlU0UGxoTHllVmVQS1Z3SGk1VWdMSFdEeHdoSG14RCthWGNRbTFXR2doYXcyZjFNeFRyaGEzemhzMDExN1Y5WnJHMW1Ia25LNDhhU3crY0lJV3huT2ZCS1RLdTdLS3E4bnhXcGhkZXhKMkVXZmp6Ym5oVHZQcXlFVk85VXBaUzlCMjM5enNUNUx6Mk9SNEE9IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURQaVlFRnJnbGxlQ1hESnFDZ0lCRUlBN3FXZXA2YWJMNm5UWjh3ckNwZktFb1pCTzZOb0JBMWU0MjI0TW93alczZSthZVpjdy9rZ0t2Syt5OFNRd3FDQktmQ2oyRklpWElxbnphN0U9IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE5NzE1NTkxfQ==
+ 4733  docker tag zindi-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/4221f1fc-bc42-4497-bff5-5eed74d9614a:latest
+ 4734  clear
+ 4735  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/4221f1fc-bc42-4497-bff5-5eed74d9614a:latest
+ 4736* node -e 'require("fs").writeFileSync("/Users/mansour/Library/Application Support/vscode-sqltools/.node-runtime", process.execPath)' && exit 0
+ 4737  docker run -p 8000:80 zindi-melio
+ 4738  clear
+ 4739  docker compose up -d
+ 4740  docker login
+ 4741  clear
+ 4742  docker compose up -d
+ 4743  docker images ls
+ 4744  docker image ls
+ 4745  docker build --platform linux/amd64 -t zindi-melio .
+ 4746  clear
+ 4747  docker build --platform linux/amd64 -t zindi-melio .
+ 4748  docker build -t zindi-melio .
+ 4749  clear
+ 4750  docker build --platform linux/amd64 -t zindi-melio .
+ 4751  docker image ls
+ 4752  clear
+ 4753  docker compose up -d
+ 4754  clear
+ 4755  docker image tag zindi-melio:latest mansourbarro/melio-zindi:latest
+ 4756  docker push mansourbarro/melio-zindi
+ 4757  docker compose up -d
+ 4758  docker login
+ 4759  docker compose up -d
+ 4760  clear
+ 4761  ls
+ 4762  python main.py
+ 4763  clear
+ 4764  docker build --platform linux/amd64 -t zindi-melio .
+ 4765  docker push mansourbarro/melio-zindi
+ 4766  docker compose up -d
+ 4767  clear
+ 4768  docker compose up -d
+ 4769  clear
+ 4770  docker compose up -d
+ 4771  docker run -p 8000:80 zindi-melio
+ 4772  docker build --platform linux/amd64 -t deploy-melio .
+ 4773  docker image
+ 4774  docker image ls
+ 4775  clear
+ 4776  docker login -u AWS https://058264459447.dkr.ecr.eu-west-1.amazonaws.com -p eyJwYXlsb2FkIjoiK1V6WlBPRVcwblVDWW9uWGQ3bFlSSW4yZGFIMk5VMzFocEhEWjN2M3hFbnhucFphUUtrakJhUlM0SXp5eFhTZzVPa0RueDI0V3pMNW5Zb1BwK2Z2NFFwekdWdXF4cjNwY3RoNzIxNTBsVUNjMUJ5QnpYR054TG9YZW1MczErNlgwV2VKUG9jS0hVNEtOUTQ0MzJLeHZZYmJnNGFVbndhMHpaWkJvM0EvOHhVcEU2WkR1TzJLdzd5aVhYTUZyOXo5MTdKWkFzNjRpMWZJcEMyMGNrMG9SR0cvdXJZclV1U2d1bTlEeDNNbzBpWmRoZFVUTVhjODFNK25kT3hNWUs3bmNnOEVCNU9tM0VwZTg3UjYrS1FqY3phd3Q4dUJKZ2VJaStUeU1oN2U2bS9BL2R5TUdEeENRWnhqWGFJSDBvWnFRaWtNdVdLdXIzTGl1SHdkVDVvTUFHdGk1MERld201VjVkUWlpdXVnS2NzOUNpcy9CNURsWjg3d1BaMDFSYlB6M294emdOZ1ZtV01sVmdkTXZTRVh3eHVKcXpaRXBZZ0pCZjFoSUVNN1FsN3F5WEVPOHh6RGR1RDFPQ25hb0ZXMXVrNTJQZ1JCZVVyejhUZ08yZ3lueE90bGZ1bUdvUzdZbVlUQ2dqcHdlOFBEUzZTNVRNajFJeWtGZVJnV1VzZ25UUTBwanFWbFR2NTNTc2psQ3llTjVsUCt5Y2FYWnh1Yk5aMnA0UGF1ZGFRdGVOMFgrTnZCblVFdGMrNmlrZVlqMjh1ODFRcTZJZjhaM09TTXcwKzMrSVR0K0V6aFBSSWdnakVWTjFyb0hyVkI5Z0Rydm9ZNEFnODdQMEhXdjFMMkpvcGZ3VmVoaS84QXNWZGhMeUl3STZIQmdjOHRKMXNIQzU1SkRoZXFPR20xaWk2aHBBRVcvLzVkK2ptckdxKzRnYnlMWWhwU24wbXppMk5PaEF2ZXFPYXo2M0hnSjZrbytMeThaMXR1eTljUmh3Q0ZNekpOckNLZGN3aUt2cUdmSWQ3ZnFnWGYvRjZZT1owMk42T084WGE4QzBSSEFlZFRRdStpZldiQUg1Q3c1NzAzYkRENDJCeFZhZy9jbEVOcWpsdVhFL25hVGcycjlRMWN6YXpNaUREQWFoTnFaZmRGT3BkR0JPNUw2Wk43RExjSmdXclBYTXM4ZlV0VFEvcE1tTjJiNk1Eb0lLNStMbjlHdlBFajdJM2ZVRUhDTWp5ZUhQVjZlM0ViNGRHb2JCR3FkWGpyeGpHTXl3TFRTQjc4di9jcE1mTm04SWhsQWxnaHVyN2pXbmY3RzVsU0k3T242cGwvMS9jQk9jWmZKYTliYVdIV0lXLzV4aTN5MzhCYno2QWc1ZWJ5K1hOU01RekNZSm5DWVdtQ2ZESEVuNTZvbklOMzdwaTNER3FGV1FPNG9xb0JLTEJnOWJ3VGNXNlFCOFBxMEJ1SzVDckRLQWs5NXBxaCt4cEw3ekhxcE0zRjlTd0ZxVmI0L0ljbHUycnVCWjBtdjc4d0ZTdi9FTldwNUhFM2hXL2VRT1BEYjdQdFRoVzhGck9qdmpGR2RpenAyVFhBa01ERXhyK2pnbzVqN2JjSzZZaEI4Z3NiMHdiaFBTRzROMlRGaWZPTWM1Y0JTVzhOdjN5YmdreHRDb3JMdWxPYVo2d2c2OHRCT3RKVlMzOW1NN2RxNzB2T3ducGRDMGg5TVFFdnVKQWhucGoxU3AyUzVMWE5BMXpuWERFQ1hidC9zNDJBQXQ5M3NUZS8zbnVEbDg3NHk0MzZiYlJIN3hFL0ZuOTkvUnQxajg1WkIvQUtzRTBPUXErTmlPaXM2RGZTSDBUTmRRaWcwTUw0OC9vRCt1eUk4Wk1ZNG9iYVVVdEszN2VqbzZUUlBVcWhGY1U2STRyNlErN1hFMGlOWTEyVGR6WFpNUWNuaWhZMUo0Uy80Mno4eWRMa0tYWjFUWHRsWjZpcjRFRnk5YWdRd2ljd3pQVTBQdUc1N1NxMUZnYnVsUkJKdThjb1VqbjUvSVpyRTZYY2NseXFHbDltNWdFa1IveDlIRjVqQk9rcFY2WWdMMk9NaDIvazU3enFJZ0tZeVkxN1d2V1lWSjFvVTBBT082eE83Nmt3dEVScmdTbXQ4U2RIVVoyWVJ6ZnRRYXpqTmtMUWxIa0J4aTlNd2M3cGJLMlJKald4VEEvZEJhWnppdldXaUpBeVNMU1d3aG9tWDY4SDA1RVU0MWN3d3dzenIrcWhxdWJpaUN4enNZNy9HWGNaSUR2amtoeFVCdz09IiwiZGF0YWtleSI6IkFRRUJBSGgrZFMrQmxOdTBOeG5Yd293YklMczExNXlqZCtMTkFaaEJMWnN1bk94azNBQUFBSDR3ZkFZSktvWklodmNOQVFjR29HOHdiUUlCQURCb0Jna3Foa2lHOXcwQkJ3RXdIZ1lKWUlaSUFXVURCQUV1TUJFRURJL3RpUmdLSlM2b3lpWklxQUlCRUlBN3NkQUQ5UlloUjFRaEdYRWtIOWFENzQ1LzVTZXlmRWJVMXMxT0JpVDN6aUlEU0NCUGlrdDZlMHRvMGtpQzM2bmlpYkFad3I4WEtPT0FQTk09IiwidmVyc2lvbiI6IjIiLCJ0eXBlIjoiREFUQV9LRVkiLCJleHBpcmF0aW9uIjoxNzE5OTAwMzAyfQ==
+ 4777  docker tag deploy-melio:latest 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/44525ed4-995b-4469-8c24-caed3c71a3f5:latest
+ 4778  docker push 058264459447.dkr.ecr.eu-west-1.amazonaws.com/highwind/f4037a54-3a5d-4352-9796-744462e09d7f/44525ed4-995b-4469-8c24-caed3c71a3f5:latest
+ 4779  clear
+ 4780  docker compose up -d
+ 4781  docker login
+ 4782  docker compose up -d
+ 4783  docker login -u melio-zindi
+ 4784  docker push mansourbarro/melio-zindi:latest
+ 4785  docker compose up -d
+ 4786  docker prune -1
+ 4787  docker prune -a
+ 4788  histor
+ 4789  history

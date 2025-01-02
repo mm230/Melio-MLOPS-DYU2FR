@@ -1,0 +1,5 @@
+transformers==4.38.2
+tensorflow-cpu==2.15.0docker 
+tf-keras==2.15.1
+kserve==0.11.2
+ipykernel
